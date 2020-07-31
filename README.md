@@ -28,13 +28,13 @@
 
 
 ## R&D Projects and Grant
--  Researcher of the project “Electrifying the Amazon: the impacts of access of renewable energy on riverside communities”, in cooperation with London of School of Economics and Political Science – LSE, Fundação Amazônia Sustentável – FAS, Universidade do Estado do Amazonas – UEA, and Universidade Federal do Amazonas – UFAM. Duration: 18 months (from MAY/2020 to DEC/2021). Grant from: Newton Fund (GBP 100,000.00) and FAPEAM (GBP 100,000.00).
--  Researcher of the project “Sustainable energy access for isolated rural communities with hybrid solar and biogas micro-grids”, coordinated by Davide Poggio da University of Sheffield (UK), and in partnership with Federal University of Minas Gerais (UFMG) with Professor Danilo Brandão. Duration: 15 months (from MAY/2019 to JULY/2020). Grant from GCRF: GBP 7,000.00
--  Researcher and deputy of the project "Sustainable and Replicable Off-grid Renewable Energy System for Riverside Communities in the Amazon, Brazil", Call Institutional Link Grant for Brazil-UK in partnership with Coventry University (UK), Fundação Amazonas Sustentável (FAS), SCENE (UK), and British Council. Duration: 24 months (from APR/2017 to MAR/2019). Grant from Newton Fund/British Council: GBP 60,000.00
+-  Researcher of the project “Electrifying the Amazon: the impacts of access of renewable energy on riverside communities”, in cooperation with London of School of Economics and Political Science – LSE, Fundação Amazônia Sustentável – FAS, Universidade do Estado do Amazonas – UEA, and Universidade Federal do Amazonas – UFAM. Duration: 18 months (from MAY/2020 to DEC/2021). Grant from: Newton Fund (GBP 100,000.00) and FAPEAM (GBP 100,000.00). https://www.lse.ac.uk/lacc/research/electrifying-the-amazon-the-impacts-of-access-to-renewable-energy-in-riverine-communities
+-  Researcher of the project “Sustainable energy access for isolated rural communities with hybrid solar and biogas micro-grids”, coordinated by Davide Poggio da University of Sheffield (UK), and in partnership with Federal University of Minas Gerais (UFMG) with Professor Danilo Brandão. Duration: 15 months (from MAY/2019 to JULY/2020). Grant from GCRF: GBP 7,000.00. In the news: https://www.sheffield.ac.uk/energy/news/new-renewable-energy-microgrids-can-bring-sustainable-electricity-rural-amazon-communities
+-  Researcher and deputy of the project "Sustainable and Replicable Off-grid Renewable Energy System for Riverside Communities in the Amazon, Brazil", Call Institutional Link Grant for Brazil-UK in partnership with Coventry University (UK), Fundação Amazonas Sustentável (FAS), SCENE (UK), and British Council. Duration: 24 months (from APR/2017 to MAR/2019). Grant from Newton Fund/British Council: GBP 60,000.00. https://www.coventry.ac.uk/research/research-directories/current-projects/2019/star-energy-sustainable-and-replicable-off-grid-renewable-energy-system-for-riverside-communities-in-the-amazon/ http://star-energy.coventry.ac.uk/ https://www.youtube.com/watch?v=TNvUiXSffb4 https://drive.google.com/file/d/124d4CVTovHObQKUYUOHZ8ujgAFE9px2t/view?usp=sharing (vídeo about PV system deployment in the Amazon community)
 
 
 ## Conference and Journal Referee
-- CBA Automatica 2020. Brazilian Congress of Automatics. Thematic axes: monitoring and management via automation systems
+- CBA Automatica 2020. Brazilian Congress of Automatics. Thematic axes: monitoring and management via automation systems https://cba2020.galoa.com.br/
 
 
 ## Thesis
