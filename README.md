@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m currently working on data analysis related to communities monitored in respect to generation and consumption of solar energy; (as well) I am working on how to speed up the optimization process of automated synthesis.
 - 🌱 I’m currently learning about machine learning, software R, optimization with model checking.
@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...I like rock music, old ones mainly...
 
 
-### Recent Teaching
+## Recent Teaching
 (Department of Electricity from Federal University of Amazonas/UFAM, Manaus, Amazonas, Brazil)
 - 2020/01 classes of Energy Convertion (FTE032) for undergraduate course in Computer Engineering 
 - 2020/01 laboratory of Energy Convertion (FTE052) for undergraduate course in Computer Engineering 
@@ -17,7 +17,7 @@
 - 2019/01 classes of Industrial Electrical Installations (FTE031) for undergraduate course in Production Engineering
 
 
-### Selected Publications
+## Selected Publications
 - Gyamfi, Kojo S.; Gaura, Elena; Brusey, James; Trindade, Alessandro B.; Verba, Nandor. "Understanding Household Fuel Choice Behaviour in the Amazonas State, Brazil: Effects of Validation and Feature Selection." Energies 13, no. 15: 3857, 2020. https://doi.org/10.3390/en13153857 
 - Trindade, Alessandro and Cordeiro,Lucas. "Automated formal verification of stand-alone solar photovoltaic systems" Solar Energy, Volume 193, 2019, Pages 684-691, ISSN 0038-092X, https://doi.org/10.1016/j.solener.2019.09.093.
 - Trindade, A., Degelo, R., Santos Junior, E., Ismail, H., Da Silva, H., Cordeiro, L. "Multi-core model checking and maximum satisfiability applied to hardware-software partitioning", International Journal of Embedded Systems, 2017 Vol.9 No.6, pp.570 - 582 https://dx.doi.org/10.1504/IJES.2017.088044
@@ -27,13 +27,13 @@
 - Trindade, A.B.; Cordeiro, L. C. Applying SMT-based verification to hardware/software partitioning in embedded systems. In: Design Automation for Embedded Systems. Springer US. Online. Available in: <http://dx.doi.org/10.1007/s10617-015-9163-z>. ISSN 0929-5585. 2015.
 
 
-### R&D Projects and Grant
+## R&D Projects and Grant
 -  Researcher of the project “Electrifying the Amazon: the impacts of access of renewable energy on riverside communities”, in cooperation with London of School of Economics and Political Science – LSE, Fundação Amazônia Sustentável – FAS, Universidade do Estado do Amazonas – UEA, and Universidade Federal do Amazonas – UFAM. Duration: 18 months (from MAY/2020 to DEC/2021). Grant from: Newton Fund (GBP 100,000.00) and FAPEAM (GBP 100,000.00).
 -  Researcher of the project “Sustainable energy access for isolated rural communities with hybrid solar and biogas micro-grids”, coordinated by Davide Poggio da University of Sheffield (UK), and in partnership with Federal University of Minas Gerais (UFMG) with Professor Danilo Brandão. Duration: 15 months (from MAY/2019 to JULY/2020). Grant from GCRF: GBP 7,000.00
 -  Researcher and deputy of the project "Sustainable and Replicable Off-grid Renewable Energy System for Riverside Communities in the Amazon, Brazil", Call Institutional Link Grant for Brazil-UK in partnership with Coventry University (UK), Fundação Amazonas Sustentável (FAS), SCENE (UK), and British Council. Duration: 24 months (from APR/2017 to MAR/2019). Grant from Newton Fund/British Council: GBP 60,000.00
 
 
-### Conference and Journal Referee
+## Conference and Journal Referee
 - CBA Automatica 2020. Brazilian Congress of Automatics. Thematic axes: monitoring and management via automation systems
 
 
