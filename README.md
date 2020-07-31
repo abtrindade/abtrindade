@@ -27,7 +27,7 @@
 - Trindade, A.B.; Cordeiro, L. C. Applying SMT-based verification to hardware/software partitioning in embedded systems. In: Design Automation for Embedded Systems. Springer US. Online. Available in: <http://dx.doi.org/10.1007/s10617-015-9163-z>. ISSN 0929-5585. 2015.
 
 
-### R&D Projects and Fundinglucas.cordeiro@manchester.ac.uk 
+### R&D Projects and Grant
 -  Researcher of the project “Electrifying the Amazon: the impacts of access of renewable energy on riverside communities”, in cooperation with London of School of Economics and Political Science – LSE, Fundação Amazônia Sustentável – FAS, Universidade do Estado do Amazonas – UEA, and Universidade Federal do Amazonas – UFAM. Duration: 18 months (from MAY/2020 to DEC/2021). Grant from: Newton Fund (GBP 100,000.00) and FAPEAM (GBP 100,000.00).
 -  Researcher of the project “Sustainable energy access for isolated rural communities with hybrid solar and biogas micro-grids”, coordinated by Davide Poggio da University of Sheffield (UK), and in partnership with Federal University of Minas Gerais (UFMG) with Professor Danilo Brandão. Duration: 15 months (from MAY/2019 to JULY/2020). Grant from GCRF: GBP 7,000.00
 -  Researcher and deputy of the project "Sustainable and Replicable Off-grid Renewable Energy System for Riverside Communities in the Amazon, Brazil", Call Institutional Link Grant for Brazil-UK in partnership with Coventry University (UK), Fundação Amazonas Sustentável (FAS), SCENE (UK), and British Council. Duration: 24 months (from APR/2017 to MAR/2019). Grant from Newton Fund/British Council: GBP 60,000.00
