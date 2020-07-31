@@ -39,7 +39,7 @@
 
 
 ## Conference/Congress Talks
--  VSTTE 2020. 12th Working Conference on Verified Software: Theories, Tools, and Experiments. https://sri-csl.github.io/VSTTE20/. Presenting the work "Synthesis of Solar Photovoltaic Systems: Optimal Sizing Comparison" in the Session 1: Synthesis, repair, and testing. Trindade, Alessandro and Cordeiro, Lucas. 21/JULY/2020. Presentation: https://youtu.be/o3hEnDPytyI 
+-  VSTTE 2020. 12th Working Conference on Verified Software: Theories, Tools, and Experiments. https://sri-csl.github.io/VSTTE20/. Presenting the work "Synthesis of Solar Photovoltaic Systems: Optimal Sizing Comparison" in the Session 1: Synthesis, repair, and testing. Trindade, Alessandro and Cordeiro, Lucas. 21/JULY/2020. Presentation (16 min): https://youtu.be/o3hEnDPytyI 
 
 
 ## Thesis
