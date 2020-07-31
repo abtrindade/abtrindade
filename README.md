@@ -27,14 +27,19 @@
 - Trindade, A.B.; Cordeiro, L. C. Applying SMT-based verification to hardware/software partitioning in embedded systems. In: Design Automation for Embedded Systems. Springer US. Online. Available in: <http://dx.doi.org/10.1007/s10617-015-9163-z>. ISSN 0929-5585. 2015.
 
 
-## R&D Projects and Grant
--  Researcher of the project “Electrifying the Amazon: the impacts of access of renewable energy on riverside communities”, in cooperation with London of School of Economics and Political Science – LSE, Fundação Amazônia Sustentável – FAS, Universidade do Estado do Amazonas – UEA, and Universidade Federal do Amazonas – UFAM. Duration: 18 months (from MAY/2020 to DEC/2021). Grant from: Newton Fund (GBP 100,000.00) and FAPEAM (GBP 100,000.00). https://www.lse.ac.uk/lacc/research/electrifying-the-amazon-the-impacts-of-access-to-renewable-energy-in-riverine-communities
+## R&D Projects and Grants
+-  Researcher of the project “Electrifying the Amazon: the impacts of access of renewable energy on riverside communities”, in cooperation with London of School of Economics and Political Science – LSE, Fundação Amazônia Sustentável – FAS, Universidade do Estado do Amazonas – UEA, and Universidade Federal do Amazonas – UFAM. Duration: 18 months (from MAY/2020 to DEC/2021). Grant from: Newton Fund/British Council (GBP 100,000.00) and FAPEAM (GBP 100,000.00). https://www.lse.ac.uk/lacc/research/electrifying-the-amazon-the-impacts-of-access-to-renewable-energy-in-riverine-communities
+-  R&D Project "
 -  Researcher of the project “Sustainable energy access for isolated rural communities with hybrid solar and biogas micro-grids”, coordinated by Davide Poggio da University of Sheffield (UK), and in partnership with Federal University of Minas Gerais (UFMG) with Professor Danilo Brandão. Duration: 15 months (from MAY/2019 to JULY/2020). Grant from GCRF: GBP 7,000.00. In the news: https://www.sheffield.ac.uk/energy/news/new-renewable-energy-microgrids-can-bring-sustainable-electricity-rural-amazon-communities
--  Researcher and deputy of the project "Sustainable and Replicable Off-grid Renewable Energy System for Riverside Communities in the Amazon, Brazil", Call Institutional Link Grant for Brazil-UK in partnership with Coventry University (UK), Fundação Amazonas Sustentável (FAS), SCENE (UK), and British Council. Duration: 24 months (from APR/2017 to MAR/2019). Grant from Newton Fund/British Council: GBP 60,000.00. https://www.coventry.ac.uk/research/research-directories/current-projects/2019/star-energy-sustainable-and-replicable-off-grid-renewable-energy-system-for-riverside-communities-in-the-amazon/ http://star-energy.coventry.ac.uk/ https://www.youtube.com/watch?v=TNvUiXSffb4 https://drive.google.com/file/d/124d4CVTovHObQKUYUOHZ8ujgAFE9px2t/view?usp=sharing (vídeo about PV system deployment in the Amazon community)
+-  Researcher and deputy of the project "Sustainable and Replicable Off-grid Renewable Energy System for Riverside Communities in the Amazon, Brazil", Call Institutional Link Grant for Brazil-UK in partnership with Coventry University (UK), Fundação Amazonas Sustentável (FAS), SCENE (UK), and Schneider Electric. Duration: 24 months (from APR/2017 to MAR/2019). Grant from Newton Fund/British Council: GBP 60,000.00. https://www.coventry.ac.uk/research/research-directories/current-projects/2019/star-energy-sustainable-and-replicable-off-grid-renewable-energy-system-for-riverside-communities-in-the-amazon/ http://star-energy.coventry.ac.uk/ https://www.youtube.com/watch?v=TNvUiXSffb4 (2018 video during PV systems deployment) https://drive.google.com/file/d/124d4CVTovHObQKUYUOHZ8ujgAFE9px2t/view?usp=sharing (2019 vídeo about PV system deployments)
 
 
 ## Conference and Journal Referee
-- CBA Automatica 2020. Brazilian Congress of Automatics. Thematic axes: monitoring and management via automation systems https://cba2020.galoa.com.br/
+-  CBA Automatica 2020. Brazilian Congress of Automatics. Thematic axes: monitoring and management via automation systems https://cba2020.galoa.com.br/
+
+
+## Conference/Congress Talks
+-  VSTTE 2020. 12th Working Conference on Verified Software: Theories, Tools, and Experiments. https://sri-csl.github.io/VSTTE20/. Presenting the work "Synthesis of Solar Photovoltaic Systems: Optimal Sizing Comparison" in the Session 1: Synthesis, repair, and testing. Trindade, Alessandro and Cordeiro, Lucas. 21/JULY/2020. Presentation: https://youtu.be/o3hEnDPytyI 
 
 
 ## Thesis
