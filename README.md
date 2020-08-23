@@ -18,6 +18,7 @@
 
 
 ## Selected Publications :page_facing_up:
+- (to come) Trindade, A. and Cordeiro, L. "Synthesis of Solar Photovoltaic Systems: Optimal Sizing Comparison" In proceedings of: Verified Software. Theories, Tools, and Experiments - 12th International Conference, VSTTE 2020, Los Angeles, CA, USA, July 20-21, 2020, Revised Selected Papers. Lecture Notes in Computer Science ???? (eds. Christakis, M., Polikarpova, N.), Springer 2020, ISBN 978-3-030-?????-0
 - Gyamfi, Kojo S.; Gaura, Elena; Brusey, James; Trindade, Alessandro B.; Verba, Nandor. "Understanding Household Fuel Choice Behaviour in the Amazonas State, Brazil: Effects of Validation and Feature Selection." Energies 13, no. 15: 3857, 2020. https://doi.org/10.3390/en13153857 
 - Trindade, Alessandro and Cordeiro,Lucas. "Automated formal verification of stand-alone solar photovoltaic systems" Solar Energy, Volume 193, 2019, Pages 684-691, ISSN 0038-092X, https://doi.org/10.1016/j.solener.2019.09.093.
 - Trindade, A., Degelo, R., Santos Junior, E., Ismail, H., Da Silva, H., Cordeiro, L. "Multi-core model checking and maximum satisfiability applied to hardware-software partitioning", International Journal of Embedded Systems, 2017 Vol.9 No.6, pp.570 - 582 https://dx.doi.org/10.1504/IJES.2017.088044
@@ -29,7 +30,7 @@
 
 ## R&D Projects and Grants :man_scientist: :dollar:
 -  Researcher of the project “Electrifying the Amazon: the impacts of access of renewable energy on riverside communities”, in cooperation with London of School of Economics and Political Science – LSE, Fundação Amazônia Sustentável – FAS, Universidade do Estado do Amazonas – UEA, and Universidade Federal do Amazonas – UFAM. Duration: 18 months (from MAY/2020 to DEC/2021). Grant from: Newton Fund/British Council (GBP 100,000.00) and FAPEAM (GBP 100,000.00). https://www.lse.ac.uk/lacc/research/electrifying-the-amazon-the-impacts-of-access-to-renewable-energy-in-riverine-communities
--  R&D Project "
+-  R&D Project "SUPER: Samsung UFAM Project for Education and Research". [WP2-CETELI-1-T] Tutoring for 11 undergraduate students in electrical and computer engineering from UFAM, and [WP2-CETELI-2-M] monitoring guidance and preparation of didactic material for online teaching on the Moodle platform. Grant from: Samsung (scholarship). Web page: http://super.ufam.edu.br/ 
 -  Researcher of the project “Sustainable energy access for isolated rural communities with hybrid solar and biogas micro-grids”, coordinated by Davide Poggio da University of Sheffield (UK), and in partnership with Federal University of Minas Gerais (UFMG) with Professor Danilo Brandão. Duration: 15 months (from MAY/2019 to JULY/2020). Grant from GCRF: GBP 7,000.00. In the news: https://www.sheffield.ac.uk/energy/news/new-renewable-energy-microgrids-can-bring-sustainable-electricity-rural-amazon-communities
 -  Researcher and deputy of the project "Sustainable and Replicable Off-grid Renewable Energy System for Riverside Communities in the Amazon, Brazil", Call Institutional Link Grant for Brazil-UK in partnership with Coventry University (UK), Fundação Amazonas Sustentável (FAS), SCENE (UK), and Schneider Electric. Duration: 24 months (from APR/2017 to MAR/2019). Grant from Newton Fund/British Council: GBP 60,000.00. https://www.coventry.ac.uk/research/research-directories/current-projects/2019/star-energy-sustainable-and-replicable-off-grid-renewable-energy-system-for-riverside-communities-in-the-amazon/ http://star-energy.coventry.ac.uk/ https://www.youtube.com/watch?v=TNvUiXSffb4 (2018 video during PV systems deployment) https://drive.google.com/file/d/124d4CVTovHObQKUYUOHZ8ujgAFE9px2t/view?usp=sharing (2019 vídeo about PV system deployments)
 
@@ -39,7 +40,7 @@
 
 
 ## Conference/Congress Talks :speaking_head:
--  XII CBPE - Brazilian Congress of Energy Planning - https://www.xiicbpe.com.br/ - 09 to 11st September/2020 - Presenting the work "Adoption of individual photovoltaic solar energy systems in an indigenous community in Amazonas: a case study of Nova Esperança community in the Puranga Conquista Sustainable Development Reserve". Technical session of public policies...to come
+-  (to come) XII CBPE - Brazilian Congress of Energy Planning - https://www.xiicbpe.com.br/ - 09 to 11st September/2020 - Presenting the work "Adoption of individual photovoltaic solar energy systems in an indigenous community in Amazonas: a case study of Nova Esperança community in the Puranga Conquista Sustainable Development Reserve". Technical session of public policies.
 -  VSTTE 2020. 12th Working Conference on Verified Software: Theories, Tools, and Experiments. https://sri-csl.github.io/VSTTE20/. Presenting the work "Synthesis of Solar Photovoltaic Systems: Optimal Sizing Comparison" in the Session 1: Synthesis, repair, and testing. Trindade, Alessandro and Cordeiro, Lucas. 21/JULY/2020. Presentation (16 min): https://youtu.be/o3hEnDPytyI 
 
 
