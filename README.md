@@ -11,6 +11,8 @@
 
 ## Recent Teaching :man_teacher:
 (Department of Electricity from Federal University of Amazonas/UFAM, Manaus, Amazonas, Brazil)
+- 2020/Special online classes of Energy Convertion (FTE032) for undergraduate course in Computer Engineering & Electrical Engineering
+- 2020/Special online classes of Electric Materials (FTE040) for undergraduate course in Electrical Engineering
 - 2020/01 classes of Energy Convertion (FTE032) for undergraduate course in Computer Engineering 
 - 2020/01 laboratory of Energy Convertion (FTE052) for undergraduate course in Computer Engineering 
 - 2019/01 classes of Electric Materials (FTE040) for undergraduate course in Electrical Engineering
@@ -40,7 +42,7 @@
 
 
 ## Conference/Congress Talks :speaking_head:
--  (to come) XII CBPE - Brazilian Congress of Energy Planning - https://www.xiicbpe.com.br/ - 09 to 11st September/2020 - Presenting the work "Adoption of individual photovoltaic solar energy systems in an indigenous community in Amazonas: a case study of Nova Esperança community in the Puranga Conquista Sustainable Development Reserve". Technical session of public policies.
+-  (to come) XII CBPE - Brazilian Congress of Energy Planning - https://www.xiicbpe.com.br/ - 09 to 11th September/2020 - Presenting the work "Adoption of individual photovoltaic solar energy systems in an indigenous community in Amazonas: a case study of Nova Esperança community in the Puranga Conquista Sustainable Development Reserve". Technical session of public policies.
 -  VSTTE 2020. 12th Working Conference on Verified Software: Theories, Tools, and Experiments. https://sri-csl.github.io/VSTTE20/. Presenting the work "Synthesis of Solar Photovoltaic Systems: Optimal Sizing Comparison" in the Session 1: Synthesis, repair, and testing. Trindade, Alessandro and Cordeiro, Lucas. 21/JULY/2020. Presentation (16 min): https://youtu.be/o3hEnDPytyI 
 
 
