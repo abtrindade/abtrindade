@@ -20,7 +20,7 @@
 
 
 ## Selected Publications :page_facing_up:
-- (to come) Trindade, A. and Cordeiro, L. "Synthesis of Solar Photovoltaic Systems: Optimal Sizing Comparison" In proceedings of: Verified Software. Theories, Tools, and Experiments - 12th International Conference, VSTTE 2020, Los Angeles, CA, USA, July 20-21, 2020, Revised Selected Papers. Lecture Notes in Computer Science ???? (eds. Christakis, M., Polikarpova, N.), Springer 2020, ISBN 978-3-030-?????-0
+- (forthcoming) Trindade, A. and Cordeiro, L. "Synthesis of Solar Photovoltaic Systems: Optimal Sizing Comparison" In proceedings of: Verified Software. Theories, Tools, and Experiments - 12th International Conference, VSTTE 2020, Los Angeles, CA, USA, July 20-21, 2020, Revised Selected Papers. Lecture Notes in Computer Science ???? (eds. Christakis, M., Polikarpova, N.), Springer 2020, ISBN 978-3-030-?????-0
 - Gyamfi, Kojo S.; Gaura, Elena; Brusey, James; Trindade, Alessandro B.; Verba, Nandor. "Understanding Household Fuel Choice Behaviour in the Amazonas State, Brazil: Effects of Validation and Feature Selection." Energies 13, no. 15: 3857, 2020. https://doi.org/10.3390/en13153857 
 - Trindade, Alessandro and Cordeiro,Lucas. "Automated formal verification of stand-alone solar photovoltaic systems" Solar Energy, Volume 193, 2019, Pages 684-691, ISSN 0038-092X, https://doi.org/10.1016/j.solener.2019.09.093.
 - Trindade, A., Degelo, R., Santos Junior, E., Ismail, H., Da Silva, H., Cordeiro, L. "Multi-core model checking and maximum satisfiability applied to hardware-software partitioning", International Journal of Embedded Systems, 2017 Vol.9 No.6, pp.570 - 582 https://dx.doi.org/10.1504/IJES.2017.088044
@@ -42,7 +42,7 @@
 
 
 ## Conference/Congress Talks :speaking_head:
--  (to come) XII CBPE - Brazilian Congress of Energy Planning - https://www.xiicbpe.com.br/ - 09 to 11th September/2020 - Presenting the work "Adoption of individual photovoltaic solar energy systems in an indigenous community in Amazonas: a case study of Nova Esperança community in the Puranga Conquista Sustainable Development Reserve". Technical session of public policies.
+-  (forthcoming) XII CBPE - Brazilian Congress of Energy Planning - https://www.xiicbpe.com.br/ - 09 to 11th September/2020 - Presenting the work "Adoption of individual photovoltaic solar energy systems in an indigenous community in Amazonas: a case study of Nova Esperança community in the Puranga Conquista Sustainable Development Reserve". Technical session of public policies.
 -  VSTTE 2020. 12th Working Conference on Verified Software: Theories, Tools, and Experiments. https://sri-csl.github.io/VSTTE20/. Presenting the work "Synthesis of Solar Photovoltaic Systems: Optimal Sizing Comparison" in the Session 1: Synthesis, repair, and testing. Trindade, Alessandro and Cordeiro, Lucas. 21/JULY/2020. Presentation (16 min): https://youtu.be/o3hEnDPytyI 
 
 
