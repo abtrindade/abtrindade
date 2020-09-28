@@ -43,7 +43,7 @@
 
 
 ## Conference/Congress Talks/Lives :speaking_head:
--  Energy Generation and Sustainability. Live organized by the NGO Fundação Amazonas Sustantável (FAS, https://fas-amazonas.org/) in 23th September 2020.  Available in: https://www.youtube.com/watch?v=7spIhdHvvGY
+-  Energy Generation and Sustainability. Live organized by the NGO Fundação Amazonas Sustantável (FAS, https://fas-amazonas.org/) in 23th September 2020.  Available in: https://www.youtube.com/watch?v=7spIhdHvvGY (in Portuguese, 81 min)
 -  XII CBPE - Brazilian Congress of Energy Planning - https://www.xiicbpe.com.br/ - 09th September/2020 - Presenting the work "Adoption of individual photovoltaic solar energy systems in an indigenous community in Amazonas: a case study of Nova Esperança community in the Puranga Conquista Sustainable Development Reserve". Technical session of public policies. https://www.youtube.com/watch?v=jDGcod842wE (in Portuguese, 10 min)
 -  VSTTE 2020. 12th Working Conference on Verified Software: Theories, Tools, and Experiments. https://sri-csl.github.io/VSTTE20/. Presenting the work "Synthesis of Solar Photovoltaic Systems: Optimal Sizing Comparison" in the Session 1: Synthesis, repair, and testing. Trindade, Alessandro and Cordeiro, Lucas. 21/JULY/2020. Presentation (16 min): https://youtu.be/o3hEnDPytyI 
 
