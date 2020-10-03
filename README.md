@@ -6,13 +6,13 @@
 - 🤔 I’m looking for help with vZ and binary search for optimization.
 - 💬 Ask me about rural electrification in the Amazon basin, about automated verification applied to cyberphisical systems, and about automated synthesis applied to solar photovoltaic systems.
 - 📫 How to reach me: alessandrotrindade@ufam.edu.br
-- ⚡ Fun fact: ...I like rock music, old ones mainly...
+- ⚡ Fun fact: ...I like rock music, old ones mainly...https://www.youtube.com/watch?v=LzGBQerkvWs
 
 
 ## Recent Teaching :man_teacher:
 (Department of Electricity from Federal University of Amazonas/UFAM, Manaus, Amazonas, Brazil)
-- 2020/Special online classes of Energy Convertion (FTE032) for undergraduate course in Computer Engineering & Electrical Engineering
-- 2020/Special online classes of Electric Materials (FTE040) for undergraduate course in Electrical Engineering
+- 2020/Special online classes of Energy Convertion (FTE032) for undergraduate course in Computer Engineering & Electrical Engineering. Moodle in https://ava.ufam.edu.br/ceteli/course/view.php?id=10 
+- 2020/Special online classes of Electric Materials (FTE040) for undergraduate course in Electrical Engineering. Moodle in https://ava.ufam.edu.br/ceteli/course/view.php?id=36
 - 2020/01 classes of Energy Convertion (FTE032) for undergraduate course in Computer Engineering 
 - 2020/01 laboratory of Energy Convertion (FTE052) for undergraduate course in Computer Engineering 
 - 2019/01 classes of Electric Materials (FTE040) for undergraduate course in Electrical Engineering
