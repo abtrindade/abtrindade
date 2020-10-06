@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on data analysis related to communities monitored in respect to generation and consumption of solar energy; (as well) I am working on how to speed up the optimization process of automated synthesis.
+- 🔭 I’m currently working on data analysis related to riverside communities monitored in respect to generation and consumption of solar energy; (as well) I am working on how to speed up the optimization process of automated synthesis.
 - 🌱 I’m currently learning about ML (machine learning), software R and data analysis, and optimization with model checking.
 - 👯 I’m looking to collaborate on R&D projects related to rural electrification and/or formal synthesis/verification of electrical systems, mainly with international cooperation/funding.
 - 🤔 I’m looking for help with vZ and binary search for optimization.
 - 💬 Ask me about rural electrification in the Amazon basin, about automated verification applied to cyberphisical systems, and about automated synthesis applied to solar photovoltaic systems.
+- :pray: Philanthropy and assistance work for the most needy? Yes, I do too. Especially if it is linked to an action coordinated by the Catholic church, as in http://guadalupemanaus.com.br/ and https://pnsnazare.org.br/
 - 📫 How to reach me: alessandrotrindade@ufam.edu.br
 - ⚡ Fun fact: ...I like rock music, old ones mainly...https://www.youtube.com/watch?v=LzGBQerkvWs
 
