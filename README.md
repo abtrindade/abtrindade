@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- :mag: CV (resume) in the Brazilian academic online format http://lattes.cnpq.br/4511445991061477 
+- :mag: CV (resume) in Brazilian academic online format http://lattes.cnpq.br/4511445991061477 
 - 🔭 I’m currently working on data analysis related to riverside communities monitored in respect to generation and consumption of solar energy; (as well) I am working on how to speed up the optimization process of automated synthesis.
 - 🌱 I’m currently learning about ML (machine learning), software R and data analysis, and optimization with model checking.
 - 👯 I’m looking to collaborate on R&D projects related to rural electrification and/or formal synthesis/verification of electrical systems, mainly with international cooperation/funding.
