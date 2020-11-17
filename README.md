@@ -2,7 +2,7 @@
 
 - :mag: CV (resume) in Brazilian academic online format http://lattes.cnpq.br/4511445991061477 
 - 🔭 I’m currently working on data analysis related to riverside communities monitored in respect to generation and consumption of solar energy; (as well) I am working on how to speed up the optimization process of automated synthesis.
-- 🌱 I’m currently learning about ML (machine learning), software R and data analysis, and optimization with model checking.
+- 🌱 I’m currently learning about ML (machine learning), software R, Orange (data mining and ML), data analysis, and optimization with model checking.
 - 👯 I’m looking to collaborate on R&D projects related to rural electrification and/or formal synthesis/verification of electrical systems, mainly with international cooperation/funding.
 - 🤔 I’m looking for help with vZ and binary search for optimization.
 - 💬 Ask me about rural electrification in the Amazon basin, about automated verification applied to cyberphisical systems, and about automated synthesis applied to solar photovoltaic systems.
@@ -22,7 +22,7 @@
 
 
 ## Selected Publications :page_facing_up:
-- (forthcoming) Trindade, A. and Cordeiro, L. "Synthesis of Solar Photovoltaic Systems: Optimal Sizing Comparison" In proceedings of: Verified Software. Theories, Tools, and Experiments - 12th International Conference, VSTTE 2020, Los Angeles, CA, USA, July 20-21, 2020, Revised Selected Papers. Lecture Notes in Computer Science ???? (eds. Christakis, M., Polikarpova, N.), Springer 2020, ISBN 978-3-030-?????-0
+- (forthcoming) Trindade, A. and Cordeiro, L. "Synthesis of Solar Photovoltaic Systems: Optimal Sizing Comparison" In proceedings of: Verified Software. Theories, Tools, and Experiments - 12th International Conference, VSTTE 2020, Los Angeles, CA, USA, July 20-21, 2020, Revised Selected Papers. Lecture Notes in Computer Science Vol. 12549 (eds. Christakis, M., Polikarpova, N.), Springer 2020, ISBN 978-3-030-?????-0
 -  Trindade, A., Silva, N., Sousa, D., Gaura, E., Silva, H., Gyamfi, K. "Adoção de sistemas individuais de energia solar fotovoltaica em uma comunidade indígena do Amazonas: estudo de caso da comunidade Nova Esperança na RDS Puranga Conquista". In proceedings of: XII Energetic Planning Brazilian Congress (CBPE). ISBN: 978-65-992540-0-0. Foz do Iguaçu - Brazil, 2020. (https://drive.google.com/file/d/12Kxoi0nqMeshT8j1Kv_mTZI-x-yz0IBY/view?usp=sharing). English translated version: https://drive.google.com/file/d/1wozsTO_tZk2sNOWM-F3y2iA7Cc12CcNY/view?usp=sharing 
 - Gyamfi, Kojo S.; Gaura, Elena; Brusey, James; Trindade, Alessandro B.; Verba, Nandor. "Understanding Household Fuel Choice Behaviour in the Amazonas State, Brazil: Effects of Validation and Feature Selection." Energies 13, no. 15: 3857, 2020. https://doi.org/10.3390/en13153857 
 - Trindade, Alessandro and Cordeiro,Lucas. "Automated formal verification of stand-alone solar photovoltaic systems" Solar Energy, Volume 193, 2019, Pages 684-691, ISSN 0038-092X, https://doi.org/10.1016/j.solener.2019.09.093.
