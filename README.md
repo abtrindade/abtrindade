@@ -2,9 +2,9 @@
 
 - :mag: CV (resume) in Brazilian academic online format http://lattes.cnpq.br/4511445991061477 
 - 🔭 I’m currently working on data analysis related to riverside communities monitored in respect to generation and consumption of solar energy; (as well) I am working on how to speed up the optimization process of automated synthesis.
-- 🌱 I’m currently learning about ML (machine learning), software R, Orange (data mining and ML), data analysis, and optimization with model checking.
+- 🌱 I’m currently exploring ML (machine learning) and data analysis with R Studio and Orange tools; and deep diving in optimization with model checking.
 - 👯 I’m looking to collaborate on R&D projects related to rural electrification and/or formal synthesis/verification of electrical systems, mainly with international cooperation/funding.
-- 🤔 I’m looking for help with vZ and binary search for optimization.
+- 🤔 I’m looking for help with vZ and binary search for optimization; and the use of ML in health studies.
 - 💬 Ask me about rural electrification in the Amazon basin, about automated verification applied to cyberphisical systems, and about automated synthesis applied to solar photovoltaic systems.
 - :pray: Philanthropy and assistance work for the most needy? Yes, I do too. Especially if it is linked to an action coordinated by the Catholic church, as in http://guadalupemanaus.com.br/ and https://pnsnazare.org.br/
 - 📫 How to reach me: alessandrotrindade@ufam.edu.br
@@ -45,6 +45,7 @@
 
 
 ## Conference/Congress Talks/Lives :speaking_head:
+- IV International Talks | Internationalisation and Outreach - FAUBAI/British Council - in 16th December 2020. Co-presentation with Elena Gaura (Coventry University) about the Star Energy project. Available in: https://www.youtube.com/watch?v=qmSMswz13Vk (in English, 95 min)
 -  Energy Generation and Sustainability. Live organized by the NGO Fundação Amazonas Sustantável (FAS, https://fas-amazonas.org/) in 23th September 2020.  Available in: https://www.youtube.com/watch?v=7spIhdHvvGY (in Portuguese, 81 min)
 -  XII CBPE - Brazilian Congress of Energy Planning - https://www.xiicbpe.com.br/ - 09th September/2020 - Presenting the work "Adoption of individual photovoltaic solar energy systems in an indigenous community in Amazonas: a case study of Nova Esperança community in the Puranga Conquista Sustainable Development Reserve". Technical session of public policies. https://www.youtube.com/watch?v=jDGcod842wE (in Portuguese, 10 min)
 -  VSTTE 2020. 12th Working Conference on Verified Software: Theories, Tools, and Experiments. https://sri-csl.github.io/VSTTE20/. Presenting the work "Synthesis of Solar Photovoltaic Systems: Optimal Sizing Comparison" in the Session 1: Synthesis, repair, and testing. Trindade, Alessandro and Cordeiro, Lucas. 21/JULY/2020. Presentation (16 min): https://youtu.be/o3hEnDPytyI 
