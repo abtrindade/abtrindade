@@ -8,11 +8,14 @@
 - 💬 Ask me about rural electrification in the Amazon basin, about automated verification applied to cyberphisical systems, and about automated synthesis applied to solar photovoltaic systems.
 - :pray: Philanthropy and assistance work for the most needy? Yes, I do too. Especially if it is linked to an action coordinated by the Catholic church, as in http://guadalupemanaus.com.br/ and https://pnsnazare.org.br/
 - 📫 How to reach me: alessandrotrindade@ufam.edu.br
+- :page_facing_up: ResearchGate: https://www.researchgate.net/profile/Alessandro_Trindade
+- :link: LinkedIn: https://br.linkedin.com/in/alessandro-trindade-7869193
 - ⚡ Fun fact: ...I like rock music, old ones mainly...https://www.youtube.com/watch?v=LzGBQerkvWs
 
 
 ## Recent Teaching :man_teacher:
 (Department of Electricity from Federal University of Amazonas/UFAM, Manaus, Amazonas, Brazil)
+- :new: Rural Electrification (course offered asynchronously and continuously in portuguese, with no fixed start date). Moodle in https://ava.ufam.edu.br/ceteli/course/view.php?id=43
 - 2020/Special online classes of Energy Convertion (FTE032) for undergraduate course in Computer Engineering & Electrical Engineering. Moodle in https://ava.ufam.edu.br/ceteli/course/view.php?id=10 
 - 2020/Special online classes of Electric Materials (FTE040) for undergraduate course in Electrical Engineering. Moodle in https://ava.ufam.edu.br/ceteli/course/view.php?id=36
 - 2020/01 classes of Energy Convertion (FTE032) for undergraduate course in Computer Engineering 
