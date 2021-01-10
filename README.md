@@ -5,7 +5,7 @@
 - 🌱 I’m currently exploring ML (machine learning) and data analysis with R Studio and Orange tools; and deep diving in optimization with model checking.
 - 👯 I’m looking to collaborate on R&D projects related to rural electrification and/or formal synthesis/verification of electrical systems, mainly with international cooperation/funding.
 - 🤔 I’m looking for help with vZ and binary search for optimization; and the use of ML in health studies.
-- 💬 Ask me about rural electrification in the Amazon basin, about automated verification applied to cyberphisical systems, and about automated synthesis applied to solar photovoltaic systems.
+- 💬 Ask me about rural electrification in the Amazon basin, about automated verification applied to cyber-physical systems, and about automated synthesis applied to solar photovoltaic systems.
 - :pray: Philanthropy and assistance work for the most needy? Yes, I do too. Especially if it is linked to an action coordinated by the Catholic church, as in http://guadalupemanaus.com.br/ and https://pnsnazare.org.br/
 - 📫 How to reach me: alessandrotrindade@ufam.edu.br
 - :page_facing_up: ResearchGate: https://www.researchgate.net/profile/Alessandro_Trindade
