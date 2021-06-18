@@ -25,8 +25,7 @@
 
 
 ## Selected Publications :page_facing_up:
-- (forthcoming) 
-- "Impact evaluation of solar photovoltaic electrification: indigenous community case study in Brazilian Amazon". We are happy to accept your abstract as an oral presentation under the theme "Developing the Clean Energy Transition: Innovation, Case-Studies, and Applications Towards an Inclusive and Sustainable Planet"
+- (forthcoming) Trindade, A., Verba, N., Farias, N., Ramon, D., Gyamfi, K., Silva, H., Viana, V., Gaura, H., (2021) "Impact evaluation of solar photovoltaic electrification: indigenous community case study in Brazilian Amazon". in Environmental Sciences Proceedings. Annual International Conference on Sustainable Development (ICSD). 
 - :new: (preprint) Trindade, Alessandro; Galvão, Edilson; Cordeiro, Lucas (2021): Multi-core synthesis and maximum satisfiability applied to optimal sizing of solar photovoltaic systems. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.14474235.v1 
 - Trindade A., Cordeiro L.C. (2020) "Synthesis of Solar Photovoltaic Systems: Optimal Sizing Comparison". In: Christakis M., Polikarpova N., Duggirala P.S., Schrammel P. (eds) Software Verification. NSV 2020, VSTTE 2020. Lecture Notes in Computer Science, vol 12549. Springer, Cham. https://doi.org/10.1007/978-3-030-63618-0_6
 -  Trindade, A., Silva, N., Sousa, D., Gaura, E., Silva, H., Gyamfi, K. "Adoção de sistemas individuais de energia solar fotovoltaica em uma comunidade indígena do Amazonas: estudo de caso da comunidade Nova Esperança na RDS Puranga Conquista". In proceedings of: XII Energetic Planning Brazilian Congress (CBPE). ISBN: 978-65-992540-0-0. Foz do Iguaçu - Brazil, 2020. (https://drive.google.com/file/d/12Kxoi0nqMeshT8j1Kv_mTZI-x-yz0IBY/view?usp=sharing). English translated version: https://drive.google.com/file/d/1wozsTO_tZk2sNOWM-F3y2iA7Cc12CcNY/view?usp=sharing 
@@ -51,8 +50,9 @@
 
 
 ## Conference/Congress Talks/Lives :speaking_head:
-- Super Tech Week: http://super.ufam.edu.br/super-tech-week/
-- :new: Internal Workshop of Tutoring: Super Project. 25/March/2021 (recording not available)
+- :new: 9th Annual International Conference on Sustainable Development (ICSD 2021), oral presentation of the paper "Impact evaluation of solar photovoltaic electrification: indigenous community case study in Brazilian Amazon". theme "Developing the Clean Energy Transition: Innovation, Case-Studies, and Applications Towards an Inclusive and Sustainable Planet", 20-21 September Virtual.
+- Super Tech Week: http://super.ufam.edu.br/super-tech-week/ Live with tutored students and project presentation 12-13/MAY/2021 https://www.youtube.com/watch?v=3fdzoV5iV_c
+- Internal Workshop of Tutoring: SUPER Project. 25/March/2021 (recording not available)
 - IV International Talks | 'Internationalisation and Outreach' - FAUBAI/British Council - in 16th December 2020. Co-presentation with Elena Gaura (Coventry University) about the Star Energy project. Available in: https://www.youtube.com/watch?v=qmSMswz13Vk (in English, 95 min)
 -  Energy Generation and Sustainability. Live organized by the NGO Fundação Amazonas Sustantável (FAS, https://fas-amazonas.org/) in 23th September 2020.  Available in: https://www.youtube.com/watch?v=7spIhdHvvGY (in Portuguese, 81 min)
 -  XII CBPE - Brazilian Congress of Energy Planning - https://www.xiicbpe.com.br/ - 09th September/2020 - Presenting the work "Adoption of individual photovoltaic solar energy systems in an indigenous community in Amazonas: a case study of Nova Esperança community in the Puranga Conquista Sustainable Development Reserve". Technical session of public policies. https://www.youtube.com/watch?v=jDGcod842wE (in Portuguese, 10 min)
