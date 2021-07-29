@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on R&D projects related to rural electrification and/or formal synthesis/verification of electrical systems, mainly with international cooperation/funding.
 - 🤔 I’m looking for help with vZ and binary search for optimization; and the use of ML in health studies.
 - 💬 Ask me about rural electrification in the Amazon basin, about automated verification applied to cyber-physical systems, and about automated synthesis applied to solar photovoltaic systems.
-- :pray: Philanthropy and assistance work for the most needy? Yes, I do too. Especially if it is linked to an action coordinated by the Catholic church, as in http://guadalupemanaus.com.br/ and https://pnsnazare.org.br/
+- :pray: Philanthropy and assistance work for the most needy? Yes, I do too. Specially if it is linked to an action coordinated by the Catholic church, as in http://guadalupemanaus.com.br/ and https://pnsnazare.org.br/
 - 📫 How to reach me: alessandrotrindade@ufam.edu.br
 - :page_facing_up: ResearchGate: https://www.researchgate.net/profile/Alessandro_Trindade
 - :link: LinkedIn: https://br.linkedin.com/in/alessandro-trindade-7869193
@@ -15,17 +15,19 @@
 
 ## Recent Teaching :man_teacher:
 (Department of Electricity from Federal University of Amazonas/UFAM, Manaus, Amazonas, Brazil)
-- :new: 2020/01 (in 2021, because of pandemic) classes of Energy Convertion (FTE032) for undergraduate course in Computer Engineering. Moodle in https://ava.ufam.edu.br/ceteli/course/view.php?id=66
-- :new: 2020/01 (in 2021, because of pandemic) laboratory of Energy Convertion (FTE052) for undergraduate course in Computer Engineering. Moodle in https://ava.ufam.edu.br/ceteli/course/view.php?id=67
+- :new: 2020/02 (in 2021, because of pandemic) classes of Electrical Installations (FTE042) for undergraduate course in Building Engineering. Moodle in https://eadceteli.ufam.edu.br/course/view.php?id=117
+- :new: 2020/02 (in 2021, because of pandemic) classes of Electric Materials (FTE040) for undergraduate course in Electrical Engineering. Moodle in https://eadceteli.ufam.edu.br/course/view.php?id=118
+- 2020/01 (in 2021, because of pandemic) classes of Energy Convertion (FTE032) for undergraduate course in Computer Engineering. Moodle in https://ava.ufam.edu.br/ceteli/course/view.php?id=66
+- 2020/01 (in 2021, because of pandemic) laboratory of Energy Convertion (FTE052) for undergraduate course in Computer Engineering. Moodle in https://ava.ufam.edu.br/ceteli/course/view.php?id=67
 - Rural Electrification (course offered asynchronously and continuously in portuguese, with no fixed start date). Moodle in https://ava.ufam.edu.br/ceteli/course/view.php?id=43
 - 2020/Special online classes of Energy Convertion (FTE032) for undergraduate course in Computer Engineering & Electrical Engineering. Moodle in https://ava.ufam.edu.br/ceteli/course/view.php?id=10 
 - 2020/Special online classes of Electric Materials (FTE040) for undergraduate course in Electrical Engineering. Moodle in https://ava.ufam.edu.br/ceteli/course/view.php?id=36
 - 2019/01 classes of Electric Materials (FTE040) for undergraduate course in Electrical Engineering
-- 2019/01 classes of Industrial Electrical Installations (FTE031) for undergraduate course in Production Engineering
+- 2019/01 classes of Industrial Electrical Installations (FTE031) for undergraduate course in Industrial Engineering
 
 
 ## Selected Publications :page_facing_up:
-- (forthcoming) Trindade, A., Verba, N., Farias, N., Ramon, D., Gyamfi, K., Silva, H., Viana, V., Gaura, H., (2021) "Impact evaluation of solar photovoltaic electrification: indigenous community case study in Brazilian Amazon". in Environmental Sciences Proceedings. Annual International Conference on Sustainable Development (ICSD). 
+- (forthcoming) Trindade, A., Verba, N., Farias, N., Ramon, D., Gyamfi, K., Silva, H., Viana, V., Gaura, H., (2021) "Impact evaluation of solar photovoltaic electrification: indigenous community case study in Brazilian Amazon". in Environmental Sciences Proceedings. Annual International Conference on Sustainable Development (ICSD). https://drive.google.com/file/d/1keyzoXdm_pVtsiVBI3XGNbPJQM4Gve0G/view?usp=sharing
 - :new: (preprint) Trindade, Alessandro; Galvão, Edilson; Cordeiro, Lucas (2021): Multi-core synthesis and maximum satisfiability applied to optimal sizing of solar photovoltaic systems. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.14474235.v1 
 - Trindade A., Cordeiro L.C. (2020) "Synthesis of Solar Photovoltaic Systems: Optimal Sizing Comparison". In: Christakis M., Polikarpova N., Duggirala P.S., Schrammel P. (eds) Software Verification. NSV 2020, VSTTE 2020. Lecture Notes in Computer Science, vol 12549. Springer, Cham. https://doi.org/10.1007/978-3-030-63618-0_6
 -  Trindade, A., Silva, N., Sousa, D., Gaura, E., Silva, H., Gyamfi, K. "Adoção de sistemas individuais de energia solar fotovoltaica em uma comunidade indígena do Amazonas: estudo de caso da comunidade Nova Esperança na RDS Puranga Conquista". In proceedings of: XII Energetic Planning Brazilian Congress (CBPE). ISBN: 978-65-992540-0-0. Foz do Iguaçu - Brazil, 2020. (https://drive.google.com/file/d/12Kxoi0nqMeshT8j1Kv_mTZI-x-yz0IBY/view?usp=sharing). English translated version: https://drive.google.com/file/d/1wozsTO_tZk2sNOWM-F3y2iA7Cc12CcNY/view?usp=sharing 
@@ -50,7 +52,7 @@
 
 
 ## Conference/Congress Talks/Lives :speaking_head:
-- :new: 9th Annual International Conference on Sustainable Development (ICSD 2021), oral presentation of the paper "Impact evaluation of solar photovoltaic electrification: indigenous community case study in Brazilian Amazon". theme "Developing the Clean Energy Transition: Innovation, Case-Studies, and Applications Towards an Inclusive and Sustainable Planet", 20-21 September Virtual.
+- :new: 9th Annual International Conference on Sustainable Development (ICSD 2021), oral presentation of the paper "Impact evaluation of solar photovoltaic electrification: indigenous community case study in Brazilian Amazon". theme "Developing the Clean Energy Transition: Innovation, Case-Studies, and Applications Towards an Inclusive and Sustainable Planet", 20-21 September Virtual. (slides to come here) 
 - Super Tech Week: http://super.ufam.edu.br/super-tech-week/ Live with tutored students and project presentation 12-13/MAY/2021 https://www.youtube.com/watch?v=3fdzoV5iV_c
 - Internal Workshop of Tutoring: SUPER Project. 25/March/2021 (recording not available)
 - IV International Talks | 'Internationalisation and Outreach' - FAUBAI/British Council - in 16th December 2020. Co-presentation with Elena Gaura (Coventry University) about the Star Energy project. Available in: https://www.youtube.com/watch?v=qmSMswz13Vk (in English, 95 min)
