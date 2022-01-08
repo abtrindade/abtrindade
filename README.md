@@ -2,8 +2,8 @@
 
 - :mag: CV (resume) in Brazilian academic online format `Lattes` http://lattes.cnpq.br/4511445991061477 
 - `ORCID`: https://orcid.org/0000-0001-8262-2919
-- 🔭 I’m currently working on `data analysis` related to riverside communities monitored in respect to `generation and consumption of solar photovoltaic energy`; (as well) I am working on how to speed up the `optimization` process of `automated synthesis`.
-- 🌱 I’m currently exploring `machine learning` (ML) and data analysis with Weka and Orange tools; and deep diving in optimization with `model checking`.
+- 🔭 I’m currently working on `data analysis` related to riverside communities monitored in respect to `generation and consumption of solar photovoltaic energy`; (as well) I am working on how to speed up the `optimization` process of `automated synthesis`. Besides the use of ESP8266 NodeMcu in `IoT`
+- 🌱 I’m currently exploring `machine learning` (ML) and data analysis with Weka and Orange tools; deep diving in optimization with `model checking`; and the use of IoT with `NodeMCU`
 - 👯 I’m looking to collaborate on `R&D projects` related to rural electrification and/or formal synthesis/verification of electrical systems, mainly with `international cooperation/funding`.
 - 🤔 I’m looking for help with vZ and binary search for optimization; and the use of ML in health studies and surveyed data from riverside communities.
 - 💬 Ask me about rural electrification in the Amazon basin, about automated verification applied to cyber-physical systems, and about automated synthesis applied to solar photovoltaic systems.
