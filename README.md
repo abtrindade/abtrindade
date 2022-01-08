@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- :mag: CV (resume) in Brazilian academic online format http://lattes.cnpq.br/4511445991061477 
+- :mag: CV (resume) in Brazilian academic online format `Lattes` http://lattes.cnpq.br/4511445991061477 
 - ORCID: https://orcid.org/0000-0001-8262-2919
 - 🔭 I’m currently working on data analysis related to riverside communities monitored in respect to generation and consumption of solar energy; (as well) I am working on how to speed up the optimization process of automated synthesis.
 - 🌱 I’m currently exploring ML (machine learning) and data analysis with Weka and Orange tools; and deep diving in optimization with model checking.
