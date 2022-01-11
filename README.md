@@ -16,9 +16,9 @@
 
 ## Recent Teaching :man_teacher:
 (Department of Electricity from Federal University of Amazonas/UFAM, Manaus, Amazonas, Brazil)
-- :new: 2021/01 (in 2022, because of pandemic) classes of Introduction to Electrical Engineering (FTE059) for undergraduate course in Electrical Engineering. Moodle in https://eadceteli.ufam.edu.br/
-- :new: 2021/01 (in 2022, because of pandemic) classes of Energy Convertion (FTE032) for undergraduate course in Computer Engineering. Moodle in https://ava.ufam.edu.br/ceteli/course/view.php?id=66
-- :new: 2021/01 (in 2022, because of pandemic) laboratory of Energy Convertion (FTE052) for undergraduate course in Computer Engineering. Moodle in https://ava.ufam.edu.br/ceteli/course/view.php?id=67
+- :new: 2021/01 (in 2022, because of pandemic) classes of Introduction to Electrical Engineering (FTE059) for undergraduate course in Electrical Engineering. Moodle in https://eadceteli.ufam.edu.br/course/view.php?id=164
+- :new: 2021/01 (in 2022, because of pandemic) classes of Energy Convertion (FTE032) for undergraduate course in Computer Engineering. Moodle in https://eadceteli.ufam.edu.br/course/view.php?id=163
+- :new: 2021/01 (in 2022, because of pandemic) laboratory of Energy Convertion (FTE052) for undergraduate course in Computer Engineering. Moodle in https://eadceteli.ufam.edu.br/course/view.php?id=162
 - 2020/02 (in 2021, because of pandemic) classes of Electrical Installations (FTE042) for undergraduate course in Building Engineering. Moodle in https://eadceteli.ufam.edu.br/course/view.php?id=117
 - 2020/02 (in 2021, because of pandemic) classes of Electric Materials (FTE040) for undergraduate course in Electrical Engineering. Moodle in https://eadceteli.ufam.edu.br/course/view.php?id=118
 - 2020/01 (in 2021, because of pandemic) classes of Energy Convertion (FTE032) for undergraduate course in Computer Engineering. Moodle in https://ava.ufam.edu.br/ceteli/course/view.php?id=66
