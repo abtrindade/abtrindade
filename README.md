@@ -71,6 +71,15 @@
 -  `PhD` in Computer Science JAN/2020. Title “Automated Verification of Stand-alone Solar Photovoltaic Systems: Optimal Sizing and Project Validation” (https://tede.ufam.edu.br/handle/tede/7671). Supervisor: Lucas Cordeiro (The University of Manchester, lucas.cordeiro@manchester.ac.uk) 
 -  `Master` in Electrical Engineering FEB/2015. Title “Aplicando verificação de modelos baseada nas teorias do módulo da satisfabilidade para o particionamento de hardware/software em sistemas embarcados” (available in: https://tede.ufam.edu.br/handle/tede/4091). Supervisor: Lucas Cordeiro (PPGEE UFAM, lucasccordeiro@gmail.com) 
 
+
+## Undergraduation Thesis Guidance :man_student:
+- (forthcoming) 2022, 'Estudo de caso da comunidade Nova Esperança em Manaus - AM: análise de impacto e validação do projeto de eletrificação com fonte solar fotovoltaica', Electrical Engineering student Augusto Pereira da Silva
+- (forthcoming) 2022, 'Uso de energia solar fotovoltaica e de biomassa na comunidade Três Unidos: estudo de caso', Alice Amazonas
+- 2021, 'Proposta de eletrificação para comunidade remota : estudo de caso da comunidade Santo Antônio na RDS Rio Negro', Electrical Engineering student Bruno
+Castro, complete document at https://drive.google.com/file/d/1Scv64FvKzAOb18MWPIPhSKmeow42sMLB/view?usp=sharing
+- 2021, 'Simulação computacional como ferramenta auxiliar ao ensino de Engenharia Elétrica em turbinas hidrocinéticas: desenvolvimento de ferramenta e de roteiro de experimentação', Rodrigo Silva dos Santos, complete document at https://drive.google.com/file/d/14g-2uGVURF48Ej8ngLaLDJ4T6YTHHL8c/view?usp=sharing
+- 2017, 'Realização de estudo prático comparativo da maximização da geração de energia elétrica em sistemas solares fotovoltaicos quando se efetua o controle da inclinação dos painéis solares', Electrical Engineering student Fábio Alexandre Souza Martins, complete document at https://drive.google.com/file/d/1WF-bByCu8T3PcPxTCUHi4Fgj-cDMKcUf/view?usp=sharing
+
 <!--
 **abtrindade/abtrindade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
