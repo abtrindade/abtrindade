@@ -57,6 +57,7 @@
 
 
 ## Conference/Congress Talks/Lives :speaking_head:
+- SUPER Acolhida 2022 - Tutoring chat about the project SUPER in https://www.youtube.com/watch?v=XvFZPtCUGB0 (01h:06min to watch my speech) 21-JAN-2022
 - Brazilian voices on the road to COP26. King's College London. The Brazilian energy matrix, 20-OCT-2021 https://www.kcl.ac.uk/the-brazilian-energy-matrix (in portuguese 15 min)
 - 9th Annual International Conference on Sustainable Development (ICSD 2021), oral presentation of the paper "Impact evaluation of solar photovoltaic electrification: indigenous community case study in Brazilian Amazon". theme "Developing the Clean Energy Transition: Innovation, Case-Studies, and Applications Towards an Inclusive and Sustainable Planet", 20-21 September Virtual. (ICSD Slides in: https://drive.google.com/file/d/1dyrm7OBMeGghakp0REKbmK_CxJ1w9mD-/view?usp=sharing) 
 - Super Tech Week: http://super.ufam.edu.br/super-tech-week/ Live with tutored students and project presentation 12-13/MAY/2021 https://www.youtube.com/watch?v=3fdzoV5iV_c
