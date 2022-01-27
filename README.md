@@ -75,7 +75,7 @@
 
 ## Undergraduation Thesis Guidance :man_student:
 - (forthcoming) 2022, 'Estudo de caso da comunidade Nova Esperança em Manaus - AM: análise de impacto e validação do projeto de eletrificação com fonte solar fotovoltaica', Electrical Engineering student Augusto Pereira da Silva (augustoapsx@gmail.com)
-- (forthcoming) 2022, 'Uso de energia solar fotovoltaica e de biomassa na comunidade Três Unidos: estudo de caso', Electrical Engineering student Alice Amazonas Lima (alicelima@ufam.edu.br)
+- (forthcoming) 2022, 'Uso de energia solar fotovoltaica e de biodigestor na comunidade Três Unidos: estudo de caso', Electrical Engineering student Alice Amazonas Lima (alicelima@ufam.edu.br)
 - (forthcoming) 2022, 'Proposta de Implantação de um Sistema de Energia Solar Fotovoltaica no Estacionamento da Faculdade de Tecnologia: uso para redução de consumo de energia e para laboratório', Electrical Engineering student Jeovana Silva Leão (jeo.sleao@gmail.com)  
 - 2021, 'Proposta de eletrificação para comunidade remota : estudo de caso da comunidade Santo Antônio na RDS Rio Negro', Electrical Engineering student Bruno
 Castro, complete document at https://drive.google.com/file/d/1Scv64FvKzAOb18MWPIPhSKmeow42sMLB/view?usp=sharing
