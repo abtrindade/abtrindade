@@ -88,7 +88,7 @@ Castro, complete document at https://drive.google.com/file/d/1Scv64FvKzAOb18MWPI
 - Student: Hendrio Medeiros Marques, where: UFAM/Laboratório de Máquinas Elétricas, from 18/SEP/2017	to 10/NOV/2017, total load work: 196 hours
 - Student: Michael Davilan de Mattos, where: Centro de Desenvolvimento Energético da Amazônia (CDEAM-UFAM), from 07/MAR/2016 to 07/JUN/2016, total load work: 256 hours
 - Student: Ricardo Martins da Costa, where: Centro de Desenvolvimento Energético da Amazônia (CDEAM-UFAM), from 07/MAR/2016 to 07/JUN/2016, total load work: 256 hours
--Student: Lorena Monteiro Siqueira, where: Centro de Desenvolvimento Energético da Amazônia (CDEAM-UFAM), from 07/MAR/2016 to 07/JUN/2016, total load work: 256 hours
+- Student: Lorena Monteiro Siqueira, where: Centro de Desenvolvimento Energético da Amazônia (CDEAM-UFAM), from 07/MAR/2016 to 07/JUN/2016, total load work: 256 hours
 
 <!--
 **abtrindade/abtrindade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
