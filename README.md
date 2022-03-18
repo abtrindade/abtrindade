@@ -82,6 +82,14 @@ Castro, complete document at https://drive.google.com/file/d/1Scv64FvKzAOb18MWPI
 - 2021, 'Simulação computacional como ferramenta auxiliar ao ensino de Engenharia Elétrica em turbinas hidrocinéticas: desenvolvimento de ferramenta e de roteiro de experimentação', Rodrigo Silva dos Santos, complete document at https://drive.google.com/file/d/14g-2uGVURF48Ej8ngLaLDJ4T6YTHHL8c/view?usp=sharing
 - 2017, 'Realização de estudo prático comparativo da maximização da geração de energia elétrica em sistemas solares fotovoltaicos quando se efetua o controle da inclinação dos painéis solares', Electrical Engineering student Fábio Alexandre Souza Martins, complete document at https://drive.google.com/file/d/1WF-bByCu8T3PcPxTCUHi4Fgj-cDMKcUf/view?usp=sharing
 
+## Mandatory internship advisor for undergraduate students in Electrical Engineering from UFAM :man_student:
+- Student: Mônica Marcelly Barbosa da Rocha, where: Secretaria de Estado de Desenvolvimento Econômico, Ciência, Tecnologia e Inovação - SEDECTI, from 14/FEB/2022 to 14/AUG/2022, total work load: 780 hours
+- Student: Augusto Pereira da Silva, where: Loto Engenharia e Instalações, from 12/AUG/2021 to 09/NOV/2021, total work load: 180 hours
+- Student: Hendrio Medeiros Marques, where: UFAM/Laboratório de Máquinas Elétricas, from 18/SEP/2017	to 10/NOV/2017, total load work: 196 hours
+- Student: Michael Davilan de Mattos, where: Centro de Desenvolvimento Energético da Amazônia (CDEAM-UFAM), from 07/MAR/2016 to 07/JUN/2016, total load work: 256 hours
+- Student: Ricardo Martins da Costa, where: Centro de Desenvolvimento Energético da Amazônia (CDEAM-UFAM), from 07/MAR/2016 to 07/JUN/2016, total load work: 256 hours
+-Student: Lorena Monteiro Siqueira, where: Centro de Desenvolvimento Energético da Amazônia (CDEAM-UFAM), from 07/MAR/2016 to 07/JUN/2016, total load work: 256 hours
+
 <!--
 **abtrindade/abtrindade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
