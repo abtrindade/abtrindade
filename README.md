@@ -29,7 +29,7 @@
 - 2020/Special online classes of Energy Convertion (FTE032) for undergraduate course in Computer Engineering & Electrical Engineering. Moodle in https://ava.ufam.edu.br/ceteli/course/view.php?id=10 (status: ended in DECEMBER  2020)
 - 2020/Special online classes of Electric Materials (FTE040) for undergraduate course in Electrical Engineering. Moodle in https://ava.ufam.edu.br/ceteli/course/view.php?id=36 (status: ended in DECEMBER  2020)
 - 2019/01 classes of Electric Materials (FTE040) for undergraduate course in Electrical Engineering (status: ended in DECEMBER  2019)
-- 2019/01 classes of Industrial Electrical Installations (FTE031) for undergraduate course in Industrial Engineering (status: ended in DECEMBER  2020)
+- 2019/01 classes of Industrial Electrical Installations (FTE031) for undergraduate course in Industrial Engineering (status: ended in DECEMBER  2019)
 
 
 ## Selected Publications :page_facing_up:
