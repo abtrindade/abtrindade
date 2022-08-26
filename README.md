@@ -7,6 +7,7 @@
 - 👯 I’m looking to collaborate on `R&D projects` related to rural electrification and/or formal synthesis/verification of electrical systems, mainly with `international cooperation/funding`.
 - 🤔 I’m looking for help with vZ and binary search for optimization; and the use of ML in health studies and surveyed data from riverside communities.
 - 💬 Ask me about rural electrification in the Amazon basin, about automated verification applied to cyber-physical systems, and about automated synthesis applied to solar photovoltaic systems.
+- Since 2022 as Professor of the Electrical Engineering Graduate Programs at UFAM (https://ppgee.ufam.edu.br/): Master's in Electrical Engineering, PhD in Electrical Engineering
 - :pray: Philanthropy and assistance work for the most needy? Yes, I do too. Specially if it is linked to an action coordinated by the Catholic church, as in http://guadalupemanaus.com.br/ and https://pnsnazare.org.br/
 - 📫 How to reach me: alessandrotrindade@ufam.edu.br
 - :page_facing_up: ResearchGate: https://www.researchgate.net/profile/Alessandro_Trindade
