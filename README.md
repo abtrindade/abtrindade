@@ -79,11 +79,10 @@
 
 
 ## Undergraduation Thesis Guidance :man_student:
-- (forthcoming) 2022, 'Uso de energia solar fotovoltaica e de biodigestor na comunidade Três Unidos: estudo de caso', Electrical Engineering student Alice Amazonas Lima (alicelima@ufam.edu.br)
-- (forthcoming) 2022, 'Proposta de Implantação de um Sistema de Energia Solar Fotovoltaica no Estacionamento da Faculdade de Tecnologia: uso para redução de consumo de energia e para laboratório', Electrical Engineering student Jeovana Silva Leão (jeo.sleao@gmail.com)  
+- 2022, 'Uso de energia solar fotovoltaica e de biodigestor na comunidade Três Unidos: estudo de caso', Electrical Engineering student Alice Amazonas Lima (alicelima@ufam.edu.br), complete document at https://drive.google.com/file/d/1O0qNet2Mt0Syn36qwC0x-4f8tK3jOseD/view?usp=sharing
+- 2022, 'Proposta de Implantação de um Sistema de Energia Solar Fotovoltaica no Estacionamento da Faculdade de Tecnologia: uso para redução de consumo de energia e para laboratório', Electrical Engineering student Jeovana Silva Leão (jeo.sleao@gmail.com), complete document at https://drive.google.com/file/d/1PKX7qUvXyRUJumBtEvBtDbBycnLWz8b6/view?usp=sharing  
 - 2022, 'Estudo de caso da comunidade Nova Esperança em Manaus - AM: análise de impacto e validação do projeto de eletrificação com fonte solar fotovoltaica', Electrical Engineering student Augusto Pereira da Silva (augustoapsx@gmail.com), complete document at https://drive.google.com/file/d/19GbB9MhUI0wBWjq66Am8jSbEMXCG1ttX/view?usp=sharing
-- 2021, 'Proposta de eletrificação para comunidade remota : estudo de caso da comunidade Santo Antônio na RDS Rio Negro', Electrical Engineering student Bruno
-Castro, complete document at https://drive.google.com/file/d/1Scv64FvKzAOb18MWPIPhSKmeow42sMLB/view?usp=sharing
+- 2021, 'Proposta de eletrificação para comunidade remota : estudo de caso da comunidade Santo Antônio na RDS Rio Negro', Electrical Engineering student Bruno Castro, complete document at https://drive.google.com/file/d/1Scv64FvKzAOb18MWPIPhSKmeow42sMLB/view?usp=sharing
 - 2021, 'Simulação computacional como ferramenta auxiliar ao ensino de Engenharia Elétrica em turbinas hidrocinéticas: desenvolvimento de ferramenta e de roteiro de experimentação', Rodrigo Silva dos Santos, complete document at https://drive.google.com/file/d/14g-2uGVURF48Ej8ngLaLDJ4T6YTHHL8c/view?usp=sharing
 - 2017, 'Realização de estudo prático comparativo da maximização da geração de energia elétrica em sistemas solares fotovoltaicos quando se efetua o controle da inclinação dos painéis solares', Electrical Engineering student Fábio Alexandre Souza Martins, complete document at https://drive.google.com/file/d/1WF-bByCu8T3PcPxTCUHi4Fgj-cDMKcUf/view?usp=sharing
 
