@@ -19,7 +19,7 @@
 (Department of Electricity from Federal University of Amazonas/UFAM, Manaus, Amazonas, Brazil)
 - :new: 2022/01 classes of Introduction to Electrical Engineering (FTE059) for undergraduate course in Electrical Engineering (status: start in October 2022)
 - :new: 2022/01 classes of Energy Convertion (FTE032) for undergraduate course in Computer Engineering (status: start in October 2022)
-- :new: 2021/01 (in 2022, because of pandemic) laboratory of Energy Convertion (FTE052) for undergraduate course in Computer Engineering. (status: start in October 2022)
+- :new: 2022/01 Laboratory of Energy Convertion (FTE052) for undergraduate course in Electrical Engineering (status: start in October 2022)
 - 2021/02 (in 2022, because of pandemic) classes of Electrical Installations (FTE042) for undergraduate course in Building Engineering. Hybrid with support material at Moodle in https://eadceteli.ufam.edu.br/course/view.php?id=185 (status: ended in September 2022)
 - 2021/02 (in 2022, because of pandemic) classes of Electric Materials (FTE040) for undergraduate course in Electrical Engineering. Hybrid with support material at Moodle in https://eadceteli.ufam.edu.br/course/view.php?id=186 (status: ended in September 2022) 
 - 2021/01 (in 2022, because of pandemic) classes of Introduction to Electrical Engineering (FTE059) for undergraduate course in Electrical Engineering. Moodle in https://eadceteli.ufam.edu.br/course/view.php?id=164 (status: ended in MAY 2022)
