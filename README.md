@@ -76,7 +76,7 @@ University of Applied Sciences`, `Graz University of Technology`, Federal Univer
 
 
 ## Conference/Congress Talks/Lives :speaking_head:
-- :new: Round Table at the Amazon Week https://www.amazonaswoche.de/ (from September 11th to 15th 2023). The round table took place online in 15th September and had the subject "Just Transition in the Amazon rainforest". Slides here: https://drive.google.com/file/d/1DPXDi4uavGTIa2wSXUbP04eDLod8l6mW/view?usp=sharing
+- :new: Round Table at the Amazon Week https://www.amazonaswoche.de/ (from September 11th to 15th 2023). The round table took place online in 15th September and had the subject "Just Transition in the Amazon rainforest". Slides here: https://drive.google.com/file/d/1DPXDi4uavGTIa2wSXUbP04eDLod8l6mW/view?usp=sharing and the entire Round Table here (I start to speak with 42 min) https://youtu.be/4NWxKuB6dtg?feature=shared
 - SUPER Acolhida 2022 - Tutoring chat about the project SUPER in https://www.youtube.com/watch?v=XvFZPtCUGB0 (01h:06min to watch my speech) 21-JAN-2022
 - Brazilian voices on the road to COP26. King's College London. The Brazilian energy matrix, 20-OCT-2021 https://www.kcl.ac.uk/the-brazilian-energy-matrix (in portuguese 15 min)
 - 9th Annual International Conference on Sustainable Development (ICSD 2021), oral presentation of the paper "Impact evaluation of solar photovoltaic electrification: indigenous community case study in Brazilian Amazon". theme "Developing the Clean Energy Transition: Innovation, Case-Studies, and Applications Towards an Inclusive and Sustainable Planet", 20-21 September Virtual. (ICSD Slides in: https://drive.google.com/file/d/1dyrm7OBMeGghakp0REKbmK_CxJ1w9mD-/view?usp=sharing) 
