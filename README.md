@@ -18,7 +18,7 @@
 ## Recent Teaching :man_teacher:
 (Department of Electricity from Federal University of Amazonas/UFAM, Manaus, Amazonas, Brazil)
 - :new: 2023/01 classes of Introduction to Electrical Engineering (FTE059) for undergraduate course in Electrical Engineering (status: started in 24th July 2023)
-- :new: 2023/01 classes of Electromechanical Energy Conversion (FTE032) for undergraduate course in Electrical Engineering (status: started in 24th July 2023)
+- :new: 2023/01 classes of Electromechanical Energy Conversion (FTE064) for undergraduate course in Electrical Engineering (status: started in 24th July 2023)
 - :new: 2023/01 Laboratory of Energy Convertion (FTE052) for undergraduate course in Electrical Engineering (status: started in 24th July 2023)
 - 2022/02 classes of Electric Materials (FTE040) for undergraduate course in Electrical Engineering (status: ended in July 2023)
 - 2022/02 classes of Electrical Installations (FTE042) for undergraduate course in Architecture and Urbanism (status: ended in July 2023)
@@ -76,6 +76,7 @@ University of Applied Sciences`, `Graz University of Technology`, Federal Univer
 
 
 ## Conference/Congress Talks/Lives :speaking_head:
+- :new: International Seminar on Meteorology and Climatology of Amazonas (V SIMCA) course of solar photovoltaic energy https://web.facebook.com/lab.agroclim.ufam/?locale=pt_BR&_rdc=1&_rdr
 - :new: Round Table at the Amazon Week https://www.amazonaswoche.de/ (from September 11th to 15th 2023). The round table took place online in 15th September and had the subject "Just Transition in the Amazon rainforest". Slides here: https://drive.google.com/file/d/1DPXDi4uavGTIa2wSXUbP04eDLod8l6mW/view?usp=sharing and the entire Round Table here (I start to speak with 42 min) https://youtu.be/4NWxKuB6dtg?feature=shared
 - SUPER Acolhida 2022 - Tutoring chat about the project SUPER in https://www.youtube.com/watch?v=XvFZPtCUGB0 (01h:06min to watch my speech) 21-JAN-2022
 - Brazilian voices on the road to COP26. King's College London. The Brazilian energy matrix, 20-OCT-2021 https://www.kcl.ac.uk/the-brazilian-energy-matrix (in portuguese 15 min)
