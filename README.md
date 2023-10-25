@@ -69,6 +69,12 @@
 -  (finished in 2019) Researcher and deputy of the project "Sustainable and Replicable Off-grid Renewable Energy System for Riverside Communities in the Amazon, Brazil", Call Institutional Link Grant for Brazil-UK in partnership with `Coventry University` (UK), Fundação Amazonas Sustentável (FAS), SCENE (UK), and Schneider Electric. Duration: 24 months (from APR/2017 to MAR/2019). Grant from Newton Fund/British Council: £ 60,000.00 + in-kind partiners support. https://www.coventry.ac.uk/research/research-directories/current-projects/2019/star-energy-sustainable-and-replicable-off-grid-renewable-energy-system-for-riverside-communities-in-the-amazon/ http://star-energy.coventry.ac.uk/ https://www.youtube.com/watch?v=TNvUiXSffb4 (2018 video during PV systems deployment) https://drive.google.com/file/d/124d4CVTovHObQKUYUOHZ8ujgAFE9px2t/view?usp=sharing (2019 vídeo about PV system deployments)
 
 
+## Research Groups in Brazil :bulb: 
+- Energy, Climate and Sustainable Development Research Unit (UPEC) - CNPq web link http://dgp.cnpq.br/dgp/espelhogrupo/9141605806683175
+- Automated Verification of Software and Systems - CNPq web link http://dgp.cnpq.br/dgp/espelhogrupo/3136070825055801
+- Systems Control Study Group (e-Controls) - CNPq web link http://dgp.cnpq.br/dgp/espelhogrupo/2645489036156119
+
+
 ## Conference and Journal Referee :man_judge:
 -  CBA Automatica 2020. Brazilian Congress of Automatics. Thematic axes: monitoring and management via automation systems https://cba2020.galoa.com.br/
 
