@@ -17,9 +17,11 @@
 
 ## Recent Teaching :man_teacher:
 (Department of Electricity from Federal University of Amazonas/UFAM, Manaus, Amazonas, Brazil)
-- :new: 2023/01 classes of Introduction to Electrical Engineering (FTE059) for undergraduate course in Electrical Engineering (status: started in 24th July 2023)
-- :new: 2023/01 classes of Electromechanical Energy Conversion (FTE064) for undergraduate course in Electrical Engineering (status: started in 24th July 2023)
-- :new: 2023/01 Laboratory of Energy Convertion (FTE052) for undergraduate course in Electrical Engineering (status: started in 24th July 2023)
+- :new: 2023/02 classes of Electric Materials (FTE040) for undergraduate course in Electrical Engineering (status: started in December 2023)
+- :new: 2023/02 classes of Electrical Installations (FTE042 and FTE086) for undergraduate course in Building Engineering (status: started in December 2023)
+- 2023/01 classes of Introduction to Electrical Engineering (FTE059) for undergraduate course in Electrical Engineering (status: ended in November 2023)
+- 2023/01 classes of Electromechanical Energy Conversion (FTE064) for undergraduate course in Electrical Engineering (status: ended in November 2023)
+- 2023/01 Laboratory of Energy Convertion (FTE052) for undergraduate course in Electrical Engineering (status: ended in November 2023)
 - 2022/02 classes of Electric Materials (FTE040) for undergraduate course in Electrical Engineering (status: ended in July 2023)
 - 2022/02 classes of Electrical Installations (FTE042) for undergraduate course in Architecture and Urbanism (status: ended in July 2023)
 - 2022/01 classes of Introduction to Electrical Engineering (FTE059) for undergraduate course in Electrical Engineering (status: ended in March 2023)
@@ -99,13 +101,13 @@
 
 
 ## Undergraduation Thesis Guidance :man_student:
-- :new: 2023, 'Ciência de dados aplicada a questionários coletados de comunidade não eletrificadas do baixo Rio Negro no Amazonas', Computing Engineering student Luís Henrique Raheem Simões (to be finished until November 2023)
-- 2022, 'Uso de energia solar fotovoltaica e de biodigestor na comunidade Três Unidos: estudo de caso', Electrical Engineering student Alice Amazonas Lima (alicelima@ufam.edu.br), complete document at https://drive.google.com/file/d/1O0qNet2Mt0Syn36qwC0x-4f8tK3jOseD/view?usp=sharing
+- :new: 2023, 'Aprendizagem de máquina como ferramenta de planejamento energético: estudo de caso aplicado a comunidades não eletrificadas do baixo Rio Negro no Amazonas', Computing Engineering student Luís Henrique Raheem Simões (luishenriquers4@gmail.com) (finished in 8th of November 2023), complete document at https://drive.google.com/file/d/1k3QNsoYhW4rgAcshKCMOogwrbKU0ycqD/view?usp=sharing
+- 2022, 'Uso de energia solar fotovoltaica e de biodigestor na comunidade Três Unidos: estudo de caso', Electrical Engineering student Alice Amazonas Lima (limalice.aal@gmail.com), complete document at https://drive.google.com/file/d/1O0qNet2Mt0Syn36qwC0x-4f8tK3jOseD/view?usp=sharing
 - 2022, 'Proposta de Implantação de um Sistema de Energia Solar Fotovoltaica no Estacionamento da Faculdade de Tecnologia: uso para redução de consumo de energia e para laboratório', Electrical Engineering student Jeovana Silva Leão (jeo.sleao@gmail.com), complete document at https://drive.google.com/file/d/1PKX7qUvXyRUJumBtEvBtDbBycnLWz8b6/view?usp=sharing  
 - 2022, 'Estudo de caso da comunidade Nova Esperança em Manaus - AM: análise de impacto e validação do projeto de eletrificação com fonte solar fotovoltaica', Electrical Engineering student Augusto Pereira da Silva (augustoapsx@gmail.com), complete document at https://drive.google.com/file/d/19GbB9MhUI0wBWjq66Am8jSbEMXCG1ttX/view?usp=sharing
-- 2021, 'Proposta de eletrificação para comunidade remota : estudo de caso da comunidade Santo Antônio na RDS Rio Negro', Electrical Engineering student Bruno Castro, complete document at https://drive.google.com/file/d/1Scv64FvKzAOb18MWPIPhSKmeow42sMLB/view?usp=sharing
-- 2021, 'Simulação computacional como ferramenta auxiliar ao ensino de Engenharia Elétrica em turbinas hidrocinéticas: desenvolvimento de ferramenta e de roteiro de experimentação', Rodrigo Silva dos Santos, complete document at https://drive.google.com/file/d/14g-2uGVURF48Ej8ngLaLDJ4T6YTHHL8c/view?usp=sharing
-- 2017, 'Realização de estudo prático comparativo da maximização da geração de energia elétrica em sistemas solares fotovoltaicos quando se efetua o controle da inclinação dos painéis solares', Electrical Engineering student Fábio Alexandre Souza Martins, complete document at https://drive.google.com/file/d/1WF-bByCu8T3PcPxTCUHi4Fgj-cDMKcUf/view?usp=sharing
+- 2021, 'Proposta de eletrificação para comunidade remota : estudo de caso da comunidade Santo Antônio na RDS Rio Negro', Electrical Engineering student Bruno Castro (br.sil.castro@gmail.com), complete document at https://drive.google.com/file/d/1Scv64FvKzAOb18MWPIPhSKmeow42sMLB/view?usp=sharing
+- 2021, 'Simulação computacional como ferramenta auxiliar ao ensino de Engenharia Elétrica em turbinas hidrocinéticas: desenvolvimento de ferramenta e de roteiro de experimentação', Rodrigo Silva dos Santos (rodrigossantosufam@gmail.com), complete document at https://drive.google.com/file/d/14g-2uGVURF48Ej8ngLaLDJ4T6YTHHL8c/view?usp=sharing
+- 2017, 'Realização de estudo prático comparativo da maximização da geração de energia elétrica em sistemas solares fotovoltaicos quando se efetua o controle da inclinação dos painéis solares', Electrical Engineering student Fábio Alexandre Souza Martins (fabioasmartins@yahoo.com.br), complete document at https://drive.google.com/file/d/1WF-bByCu8T3PcPxTCUHi4Fgj-cDMKcUf/view?usp=sharing
 
 ## Mandatory internship advisor for undergraduate students in Electrical Engineering from UFAM :man_student:
 - Student: Mônica Marcelly Barbosa da Rocha, where: Secretaria de Estado de Desenvolvimento Econômico, Ciência, Tecnologia e Inovação - SEDECTI, from 14/FEB/2022 to 14/AUG/2022, total work load: 780 hours
