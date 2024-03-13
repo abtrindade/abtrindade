@@ -73,7 +73,7 @@
 ## Datasets :books:
 - WH180 weather station measurements from community Nova Esperança in Manaus, Amazonas - Brazil 2018-2019 https://doi.org/10.6084/m9.figshare.25399735.v1
 - Monitoring data from charge controller (offgrid solar photovoltaic systems) at Nova Esperança in Manaus Amazonas - Brazil 2018-2019
-- Survey raw data of 14 riverside communities from the Low Black River in Manaus, Amazonas - Brazil (2017)
+- Survey raw data of 14 riverside communities from the Low Black River in Manaus, Amazonas - Brazil (2017) https://doi.org/10.6084/m9.figshare.25403422
 
 ## Research Groups in Brazil :bulb: 
 - Energy, Climate and Sustainable Development Research Unit (UPEC) - CNPq web link http://dgp.cnpq.br/dgp/espelhogrupo/9141605806683175
