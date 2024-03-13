@@ -81,8 +81,9 @@
 - Systems Control Study Group (e-Controls) - CNPq web link http://dgp.cnpq.br/dgp/espelhogrupo/2645489036156119
 
 
-## Conference and Journal Referee :man_judge:
--  CBA Automatica 2020. Brazilian Congress of Automatics. Thematic axes: monitoring and management via automation systems https://cba2020.galoa.com.br/
+## Conference, Seminar and Journal Referee :man_judge:
+- V International Seminar on Meteorology and Climatology of Amazonas (SIMCA) 2023. https://www.even3.com.br/v-seminario-internacional-de-meteorologia-e-climatologia-do-amazonas-378348/
+- CBA Automatica 2020. Brazilian Congress of Automatics. Thematic axes: monitoring and management via automation systems https://cba2020.galoa.com.br/
 
 
 ## Conference/Congress Talks/Lives :speaking_head:
