@@ -71,8 +71,9 @@
 -  (finished in 2019) Researcher and deputy of the project "Sustainable and Replicable Off-grid Renewable Energy System for Riverside Communities in the Amazon, Brazil", Call Institutional Link Grant for Brazil-UK in partnership with `Coventry University` (UK), Fundação Amazonas Sustentável (FAS), SCENE (UK), and Schneider Electric. Duration: 24 months (from APR/2017 to MAR/2019). Grant from Newton Fund/British Council: £ 60,000.00 + in-kind partiners support. https://www.coventry.ac.uk/research/research-directories/current-projects/2019/star-energy-sustainable-and-replicable-off-grid-renewable-energy-system-for-riverside-communities-in-the-amazon/ http://star-energy.coventry.ac.uk/ https://www.youtube.com/watch?v=TNvUiXSffb4 (2018 video during PV systems deployment) https://drive.google.com/file/d/124d4CVTovHObQKUYUOHZ8ujgAFE9px2t/view?usp=sharing (2019 vídeo about PV system deployments)
 
 ## Datasets 
-- Weather Station measurements at Nova Esperanca in Manaus, Amazonas - Brazil 2018-2019 https://doi.org/10.6084/m9.figshare.25399735.v1
-- Monitoring data from charge controller (offgrid solar photovoltaic systems) at Nova Esperança in Manaus Amazonas - Brazil 2018-2019 
+- WH180 weather station measurements from community Nova Esperança in Manaus, Amazonas - Brazil 2018-2019 https://doi.org/10.6084/m9.figshare.25399735.v1
+- Monitoring data from charge controller (offgrid solar photovoltaic systems) at Nova Esperança in Manaus Amazonas - Brazil 2018-2019
+- Survey raw data of 14 riverside communities from the Low Black River in Manaus, Amazonas - Brazil (2017)
 
 ## Research Groups in Brazil :bulb: 
 - Energy, Climate and Sustainable Development Research Unit (UPEC) - CNPq web link http://dgp.cnpq.br/dgp/espelhogrupo/9141605806683175
