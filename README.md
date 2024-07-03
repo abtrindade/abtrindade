@@ -79,13 +79,13 @@
 - Survey raw data of 14 riverside communities from the Low Black River in Manaus, Amazonas - Brazil (2017) https://doi.org/10.6084/m9.figshare.25403422
 
 ## Research Groups in Brazil :bulb: 
-- Energy, Climate and Sustainable Development Research Unit (UPEC) - CNPq web link http://dgp.cnpq.br/dgp/espelhogrupo/9141605806683175
+- Energy, Climate and Sustainable Development Research Unit (UPEC) - CNPq web link http://dgp.cnpq.br/dgp/espelhogrupo/9141605806683175 - portfolio of competences and projects available in https://cca.ufam.edu.br/noticias/2-uncategorised/150-portifolio-upec.html
 - Automated Verification of Software and Systems - CNPq web link http://dgp.cnpq.br/dgp/espelhogrupo/3136070825055801
-- Systems Control Study Group (e-Controls) - CNPq web link http://dgp.cnpq.br/dgp/espelhogrupo/2645489036156119
+- Systems Control Study Group (e-Controls) - CNPq web link http://dgp.cnpq.br/dgp/espelhogrupo/2645489036156119 - portfolio of competences available in https://drive.google.com/file/d/1_Mu6Ftko-al2-kNb1VLgFQtNAde43Ped/view?usp=sharing
 
 
 ## Conference, Seminar and Journal Referee :man_judge:
-- V International Seminar on Meteorology and Climatology of Amazonas (SIMCA) 2023. https://www.even3.com.br/v-seminario-internacional-de-meteorologia-e-climatologia-do-amazonas-378348/
+- V International Seminar on Meteorology and Climatology of Amazonas (SIMCA) 2023 (28 and 29 September de 2023). https://www.even3.com.br/v-seminario-internacional-de-meteorologia-e-climatologia-do-amazonas-378348/ - Anais available in https://bit.ly/V_SIMCA
 - CBA Automatica 2020. Brazilian Congress of Automatics. Thematic axes: monitoring and management via automation systems https://cba2020.galoa.com.br/
 
 
