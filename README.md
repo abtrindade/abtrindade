@@ -16,9 +16,9 @@
 
 
 ## Research Groups in Brazil :bulb: 
-- Energy, Climate and Sustainable Development Research Unit (UPEC) - CNPq web link http://dgp.cnpq.br/dgp/espelhogrupo/9141605806683175 - portfolio of competences and projects available in https://cca.ufam.edu.br/noticias/2-uncategorised/150-portifolio-upec.html
-- Automated Verification of Software and Systems - CNPq web link http://dgp.cnpq.br/dgp/espelhogrupo/3136070825055801
-- Systems Control Study Group (e-Controls) - CNPq web link http://dgp.cnpq.br/dgp/espelhogrupo/2645489036156119 - portfolio of competences available in https://drive.google.com/file/d/1_Mu6Ftko-al2-kNb1VLgFQtNAde43Ped/view?usp=sharing
+- `Energy, Climate and Sustainable Development Research Unit (UPEC)` - CNPq web link http://dgp.cnpq.br/dgp/espelhogrupo/9141605806683175 - portfolio of competences and projects available in https://cca.ufam.edu.br/noticias/2-uncategorised/150-portifolio-upec.html
+- `Automated Verification of Software and Systems` - CNPq web link http://dgp.cnpq.br/dgp/espelhogrupo/3136070825055801
+- `Systems Control Study Group (e-Controls)` - CNPq web link http://dgp.cnpq.br/dgp/espelhogrupo/2645489036156119 - portfolio of competences available in https://drive.google.com/file/d/1_Mu6Ftko-al2-kNb1VLgFQtNAde43Ped/view?usp=sharing
 
 
 ## Recent Teaching :man_teacher:
