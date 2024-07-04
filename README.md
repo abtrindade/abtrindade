@@ -70,6 +70,12 @@
 - Trindade, A.B.; Cordeiro, L. C. Applying SMT-based verification to hardware/software partitioning in embedded systems. In: Design Automation for Embedded Systems. Springer US. Online. Available in: <http://dx.doi.org/10.1007/s10617-015-9163-z>. ISSN 0929-5585. 2015.
 
 
+## Datasets :books:
+- :new: Monitoring data from charge controller and batteries (offgrid solar photovoltaic systems) at community Nova Esperança in Amazonas - Brazil 2018-2019 https://doi.org/10.6084/m9.figshare.26166445.v1
+- WH180 weather station measurements from community Nova Esperança in Manaus, Amazonas - Brazil 2018-2019 https://doi.org/10.6084/m9.figshare.25399735.v1
+- Survey raw data of 14 riverside communities from the Low Black River in Manaus, Amazonas - Brazil (2017) https://doi.org/10.6084/m9.figshare.25403422
+
+  
 ## R&D Projects and Grants :man_scientist: :dollar:
 - Researcher of the project 'Interoperable Research Infrastructure for Managing Sustainable Grid Cells', in partnership with `Bielefeld University of Applied Sciences`, `Graz University of Technology`, Federal University of Amazonas Brazil, `Universidad Mayor de San Andrés` Bolivia, `Universidad Tecnológica de Panamá` and the associated partner university `Universidad Tecnológica La Salle` Nicaragua. Funding from 4th EU-LAC Joint Call in STI 2022 and FAPEAM with support of € 271,511. Started in January 2023 https://www.eucelac-platform.eu/project/interoperable-research-infrastructure-managing-sustainable-grid-cells 
 - Researcher of the project 'Robust solar powered storage systems with second-life batteries and their economic and ecological potential', in partnership with Technische Hochschule Ingolstadt (`THI`) Germany, University of Duisburg-Essen (`UDE`), UFAM, Instituto Federal de Santa Catarina (`IFSC`), Universidade Federal de Santa Catarina (`UFSC`). Funding from DAAD German-Brazilian research cooperation in the energy sector – NoPa 2.0/ cooperation in the areas of green hydrogen/PtX, direct electrification and energy storage. Started in January 2023 and finished in December 2023 https://aware.thi.de/en/about-aware/funding-projects/2lifebat/ 
@@ -78,11 +84,6 @@
 -  (running) R&D Project "SUPER: `Samsung` UFAM Project for Education and Research". [WP2-CETELI-1-T] Tutoring for 14 undergraduate students in electrical and computer engineering from UFAM, and [WP2-CETELI-2-M] monitoring guidance and preparation of didactic material for online teaching on the Moodle platform. Grant from: Samsung (scholarship). Web page: http://super.ufam.edu.br/ From MAY/2020 to MAR/2024
 -  (finished in 2022) Researcher of the project “Sustainable energy access for isolated rural communities with hybrid solar and biogas micro-grids”, coordinated by Davide Poggio da University of Sheffield (UK), and in partnership with Federal University of Minas Gerais (UFMG) with Professor Danilo Brandão. Duration: 15 months (from MAY/2019 to JUL/2021). Grant from GCRF: £ 7,000.00. In the news: https://www.sheffield.ac.uk/energy/news/new-renewable-energy-microgrids-can-bring-sustainable-electricity-rural-amazon-communities
 -  (finished in 2019) Researcher and deputy of the project "Sustainable and Replicable Off-grid Renewable Energy System for Riverside Communities in the Amazon, Brazil", Call Institutional Link Grant for Brazil-UK in partnership with `Coventry University` (UK), Fundação Amazonas Sustentável (FAS), SCENE (UK), and Schneider Electric. Duration: 24 months (from APR/2017 to MAR/2019). Grant from Newton Fund/British Council: £ 60,000.00 + in-kind partiners support. https://www.coventry.ac.uk/research/research-directories/current-projects/2019/star-energy-sustainable-and-replicable-off-grid-renewable-energy-system-for-riverside-communities-in-the-amazon/ http://star-energy.coventry.ac.uk/ https://www.youtube.com/watch?v=TNvUiXSffb4 (2018 video during PV systems deployment) https://drive.google.com/file/d/124d4CVTovHObQKUYUOHZ8ujgAFE9px2t/view?usp=sharing (2019 vídeo about PV system deployments)
-
-## Datasets :books:
-- WH180 weather station measurements from community Nova Esperança in Manaus, Amazonas - Brazil 2018-2019 https://doi.org/10.6084/m9.figshare.25399735.v1
-- new: Monitoring data from charge controller and batteries (offgrid solar photovoltaic systems) at community Nova Esperança in Amazonas - Brazil 2018-2019 https://doi.org/10.6084/m9.figshare.26166445.v1
-- Survey raw data of 14 riverside communities from the Low Black River in Manaus, Amazonas - Brazil (2017) https://doi.org/10.6084/m9.figshare.25403422
 
 
 ## Conference, Seminar and Journal Referee :man_judge:
