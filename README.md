@@ -92,7 +92,8 @@
 
 
 ## Conference/Congress Talks/Lives :speaking_head:
-- International Seminar on Meteorology and Climatology of Amazonas (V SIMCA) course of solar photovoltaic energy https://web.facebook.com/lab.agroclim.ufam/?locale=pt_BR&_rdc=1&_rdr
+- Symposium “Unlocking sustainable futures: a comprehensive exploration of solar energy, second-life batteries, and green hydrogen - DWIH - Federal Institute of Santa Catarina (IFAM) 17-APR-2024, speech topic "Access to energy in isolated communities at the Amazon basin: economic, technological and logistical challenges" slides at https://drive.google.com/file/d/11kj5o206lWTX--KiJoJIh0x-x9-Z_pLm/view?usp=sharing
+- International Seminar on Meteorology and Climatology of Amazonas (V SIMCA) course of solar photovoltaic energy (28-SEP-2023) https://web.facebook.com/lab.agroclim.ufam/?locale=pt_BR&_rdc=1&_rdr
 - Round Table at the Amazon Week https://www.amazonaswoche.de/ (from September 11th to 15th 2023). The round table took place online in 15th September and had the subject "Just Transition in the Amazon rainforest". Slides here: https://drive.google.com/file/d/1DPXDi4uavGTIa2wSXUbP04eDLod8l6mW/view?usp=sharing and the entire Round Table here (I start to speak with 42 min) https://youtu.be/4NWxKuB6dtg?feature=shared
 - SUPER Acolhida 2022 - Tutoring chat about the project SUPER in https://www.youtube.com/watch?v=XvFZPtCUGB0 (01h:06min to watch my speech) 21-JAN-2022
 - Brazilian voices on the road to COP26. King's College London. The Brazilian energy matrix, 20-OCT-2021 https://www.kcl.ac.uk/the-brazilian-energy-matrix (in portuguese 15 min)
@@ -111,7 +112,7 @@
 
 
 ## Undergraduation Thesis Guidance :man_student:
-- :new: 2024, 'Estudo do uso de Energia Solar Fotovoltaica no Telhado dos Prédios da Faculdade de Tecnologia da Universidade Federal do Amazonas', Electrical Engineering student Ingrid Tainah Alcântara de Sena (ingridalcantara@ufam.edu.br).
+- :new: 2024, 'Estudo do uso de Energia Solar Fotovoltaica no Telhado dos Prédios da Faculdade de Tecnologia da UFAM', Electrical Engineering student Ingrid Tainah Alcântara de Sena (ingridalcantara@ufam.edu.br). Complete document at https://drive.google.com/file/d/1Bs65741cYHoYKUwDyl7YDH03wVr4ZI_f/view?usp=sharing
 - :new: 2024, 'Estudo de viabilidade, projeto e simulação de solução de eletrificação rural com fonte renovável para comunidade Ribeirinha, estudo de caso', Electrical Engineering student Josekson Silva (josekson667@gmail.com). 
 - 2023, 'Aprendizagem de máquina como ferramenta de planejamento energético: estudo de caso aplicado a comunidades não eletrificadas do baixo Rio Negro no Amazonas', Computing Engineering student Luís Henrique Raheem Simões (luishenriquers4@gmail.com) (finished in 8th of November 2023), complete document at https://drive.google.com/file/d/1k3QNsoYhW4rgAcshKCMOogwrbKU0ycqD/view?usp=sharing
 - 2022, 'Uso de energia solar fotovoltaica e de biodigestor na comunidade Três Unidos: estudo de caso', Electrical Engineering student Alice Amazonas Lima (limalice.aal@gmail.com), complete document at https://drive.google.com/file/d/1O0qNet2Mt0Syn36qwC0x-4f8tK3jOseD/view?usp=sharing
