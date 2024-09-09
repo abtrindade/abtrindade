@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with vZ and binary search for optimization; and the use of ML in health studies and surveyed data from riverside communities.
 - 💬 Ask me about rural electrification in the Amazon basin, about automated verification applied to cyber-physical systems, and about automated synthesis applied to solar photovoltaic systems.
 - Since NOV/2015 working as Professor of the Electrical Engineering undergraduation course at UFAM (https://eletrotecnicaeng.sites.ufam.edu.br/); and since AUG/2022 as Professor of the Electrical Engineering Graduate Program at UFAM (https://ppgee.ufam.edu.br/)
-- :pray: Philanthropy and assistance work for the most needy? Yes, I do too. Specially if it is linked to an action coordinated by the Catholic church, as in http://guadalupemanaus.com.br/ and https://pnsnazare.org.br/
+- :pray: Philanthropy and assistance work for the most needy? Yes, I do too. Specially if it is linked to an action coordinated by the Catholic church, as in https://www.paroquiaguadalupemanaus.com/ and https://pnsnazare.org.br/
 - 📫 How to reach me: alessandrotrindade@ufam.edu.br
 - :page_facing_up: ResearchGate: https://www.researchgate.net/profile/Alessandro_Trindade
 - :link: LinkedIn: https://br.linkedin.com/in/alessandro-trindade-7869193
@@ -23,9 +23,11 @@
 
 ## Recent Teaching :man_teacher:
 (Department of Electricity from Federal University of Amazonas/UFAM, Manaus, Amazonas, Brazil)
-- :new: 2024/1 classes of Introduction to Electrical Engineering (FTE059) for undergraduate course in Electrical Engineering (status: started in April of 2024)
-- :new: 2024/1 classes of Electromechanical Energy Conversion (FTE064) for undergraduate course in Electrical Engineering (status: started in April of 2024)
-- :new: 2024/1 Laboratory of Energy Convertion (FTE052) for undergraduate course in Computer Engineering (status: started in April of 2024)
+- :new: 2024/2 classes of Electrical Safety Engineering (FTE065) for undergraduate course in Electrical Engineering (status: started in August of 2024)
+- :new: 2024/2 classes of Electrical Installations (FTE042 and FTE086) for undergraduate course in Building Engineering (status: started in August of 2024) 
+- 2024/1 classes of Introduction to Electrical Engineering (FTE059) for undergraduate course in Electrical Engineering (status: finished in August of 2024)
+- 2024/1 classes of Electromechanical Energy Conversion (FTE064) for undergraduate course in Electrical Engineering (status: finished in August of 2024)
+- 2024/1 Laboratory of Energy Convertion (FTE052) for undergraduate course in Computer Engineering (status: finished in August of 2024)
 - 2023/02 classes of Electric Materials (FTE040) for undergraduate course in Electrical Engineering (status: finished in April 2024)
 - 2023/02 classes of Electrical Installations (FTE042 and FTE086) for undergraduate course in Building Engineering (status: finished in April 2024)
 - 2023/01 classes of Introduction to Electrical Engineering (FTE059) for undergraduate course in Electrical Engineering (status: ended in November 2023)
@@ -111,9 +113,13 @@
 -  `Master` in Electrical Engineering FEB/2015. Title “Aplicando verificação de modelos baseada nas teorias do módulo da satisfabilidade para o particionamento de hardware/software em sistemas embarcados” (available in: https://tede.ufam.edu.br/handle/tede/4091). Supervisor: Lucas Cordeiro (PPGEE UFAM, lucasccordeiro@gmail.com) 
 
 
+## Graduation Thesis Guidance :man_student:
+- :new: 2024, “Design of photovoltaic off-grid systems with second-life batteries: a case study from riverside communities in the Amazon”, Master Thesis submitted by Khushboo Akhter to the Faculty of Mechanical Engineering of Technische Hochschule Ingolstadt (THI), Study program “Renewable Energy Systems" https://www.thi.de/en/mechanical-engineering/degree-programmes/renewable-energy-systems-msc/. Supervisor Prof. Dr.-Ing. Daniel Navarro Gevers (daniel.navarrogevers@thi.de). Advisor Prof. Dr.-Ing. Alessandro Bezerra Trindade. Complete document at https://drive.google.com/file/d/1w_mxT5W01GGLTi5vSEb9ncybrhhxtTEC/view?usp=sharing
+
+
 ## Undergraduation Thesis Guidance :man_student:
 - :new: 2024, 'Estudo do uso de Energia Solar Fotovoltaica no Telhado dos Prédios da Faculdade de Tecnologia da UFAM', Electrical Engineering student Ingrid Tainah Alcântara de Sena (ingridalcantara@ufam.edu.br). Complete document at https://drive.google.com/file/d/1Bs65741cYHoYKUwDyl7YDH03wVr4ZI_f/view?usp=sharing
-- :new: 2024, 'Estudo de viabilidade, projeto e simulação de solução de eletrificação rural com fonte renovável para comunidade Ribeirinha, estudo de caso', Electrical Engineering student Josekson Silva (josekson667@gmail.com). 
+- :new: 2024, 'Estudo de viabilidade, projeto e simulação de solução de eletrificação rural com fonte renovável para comunidade Ribeirinha, estudo de caso', Electrical Engineering student Josekson Silva (josekson667@gmail.com). Planned to December of 2024
 - 2023, 'Aprendizagem de máquina como ferramenta de planejamento energético: estudo de caso aplicado a comunidades não eletrificadas do baixo Rio Negro no Amazonas', Computing Engineering student Luís Henrique Raheem Simões (luishenriquers4@gmail.com) (finished in 8th of November 2023), complete document at https://drive.google.com/file/d/1k3QNsoYhW4rgAcshKCMOogwrbKU0ycqD/view?usp=sharing
 - 2022, 'Uso de energia solar fotovoltaica e de biodigestor na comunidade Três Unidos: estudo de caso', Electrical Engineering student Alice Amazonas Lima (limalice.aal@gmail.com), complete document at https://drive.google.com/file/d/1O0qNet2Mt0Syn36qwC0x-4f8tK3jOseD/view?usp=sharing
 - 2022, 'Proposta de Implantação de um Sistema de Energia Solar Fotovoltaica no Estacionamento da Faculdade de Tecnologia: uso para redução de consumo de energia e para laboratório', Electrical Engineering student Jeovana Silva Leão (jeo.sleao@gmail.com), complete document at https://drive.google.com/file/d/1PKX7qUvXyRUJumBtEvBtDbBycnLWz8b6/view?usp=sharing  
