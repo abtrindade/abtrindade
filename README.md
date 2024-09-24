@@ -114,7 +114,7 @@
 
 
 ## Graduation Thesis Guidance :man_student:
-- :new: 2024, “Design of photovoltaic off-grid systems with second-life batteries: a case study from riverside communities in the Amazon”, Master Thesis submitted by Khushboo Akhter to the Faculty of Mechanical Engineering of Technische Hochschule Ingolstadt (THI), Study program “Renewable Energy Systems" https://www.thi.de/en/mechanical-engineering/degree-programmes/renewable-energy-systems-msc/. Supervisor Prof. Dr.-Ing. Daniel Navarro Gevers (daniel.navarrogevers@thi.de). Advisor Prof. Dr.-Ing. Alessandro Bezerra Trindade. Complete document at https://drive.google.com/file/d/1w_mxT5W01GGLTi5vSEb9ncybrhhxtTEC/view?usp=sharing
+- :new: 2024, “Design of photovoltaic off-grid systems with second-life batteries: a case study from riverside communities in the Amazon”, Master Thesis submitted by Khushboo Akhter to the Faculty of Mechanical Engineering of Technische Hochschule Ingolstadt (THI), Study program “Renewable Energy Systems" https://www.thi.de/en/mechanical-engineering/degree-programmes/renewable-energy-systems-msc/. Supervisor Prof. Dr.-Ing. Daniel Navarro Gevers (daniel.navarrogevers@thi.de). Advisor Prof. Dr.-Ing. Alessandro Bezerra Trindade. Complete document at https://opus4.kobv.de/opus4-haw/frontdoor/index/index/docId/5142
 
 
 ## Undergraduation Thesis Guidance :man_student:
