@@ -23,8 +23,9 @@
 
 ## Recent Teaching :man_teacher:
 (Department of Electricity from Federal University of Amazonas/UFAM, Manaus, Amazonas, Brazil)
-- :new: 2024/2 classes of Electrical Safety Engineering (FTE065) for undergraduate course in Electrical Engineering (status: started in August of 2024)
-- :new: 2024/2 classes of Electrical Installations (FTE042 and FTE086) for undergraduate course in Building Engineering (status: started in August of 2024) 
+- :new: 2025/1 classes of ???? (not defined yet) (status: to be started in March of 2025)
+- 2024/2 classes of Electrical Safety Engineering (FTE065) for undergraduate course in Electrical Engineering (status: finished in December of 2024)
+- 2024/2 classes of Electrical Installations (FTE042 and FTE086) for undergraduate course in Building Engineering (status: finished in December of 2024) 
 - 2024/1 classes of Introduction to Electrical Engineering (FTE059) for undergraduate course in Electrical Engineering (status: finished in August of 2024)
 - 2024/1 classes of Electromechanical Energy Conversion (FTE064) for undergraduate course in Electrical Engineering (status: finished in August of 2024)
 - 2024/1 Laboratory of Energy Convertion (FTE052) for undergraduate course in Computer Engineering (status: finished in August of 2024)
@@ -38,12 +39,12 @@
 - 2022/01 classes of Introduction to Electrical Engineering (FTE059) for undergraduate course in Electrical Engineering (status: ended in March 2023)
 - 2022/01 classes of Energy Convertion (FTE032) for undergraduate course in Computer Engineering (status: ended in March 2023)
 - 2022/01 Laboratory of Energy Convertion (FTE052) for undergraduate course in Electrical Engineering (status: ended in March 2023)
-- 2021/02 (in 2022, because of pandemic) classes of Electrical Installations (FTE042) for undergraduate course in Building Engineering. Hybrid with support material at Moodle in https://eadceteli.ufam.edu.br/course/view.php?id=185 (status: ended in September 2022)
+<!--- 2021/02 (in 2022, because of pandemic) classes of Electrical Installations (FTE042) for undergraduate course in Building Engineering. Hybrid with support material at Moodle in https://eadceteli.ufam.edu.br/course/view.php?id=185 (status: ended in September 2022)
 - 2021/02 (in 2022, because of pandemic) classes of Electric Materials (FTE040) for undergraduate course in Electrical Engineering. Hybrid with support material at Moodle in https://eadceteli.ufam.edu.br/course/view.php?id=186 (status: ended in September 2022) 
 - 2021/01 (in 2022, because of pandemic) classes of Introduction to Electrical Engineering (FTE059) for undergraduate course in Electrical Engineering. Moodle in https://eadceteli.ufam.edu.br/course/view.php?id=164 (status: ended in MAY 2022)
 - 2021/01 (in 2022, because of pandemic) classes of Energy Convertion (FTE032) for undergraduate course in Computer Engineering. Moodle in https://eadceteli.ufam.edu.br/course/view.php?id=163 (status: ended in MAY 2022)
 - 2021/01 (in 2022, because of pandemic) laboratory of Energy Convertion (FTE052) for undergraduate course in Computer Engineering. Moodle in https://eadceteli.ufam.edu.br/course/view.php?id=162 (status: ended in MAY 2022)
-<!--- 2020/02 (in 2021, because of pandemic) classes of Electrical Installations (FTE042) for undergraduate course in Building Engineering. Moodle in https://eadceteli.ufam.edu.br/course/view.php?id=117 (status: ended in DECEMBER 2021)
+- 2020/02 (in 2021, because of pandemic) classes of Electrical Installations (FTE042) for undergraduate course in Building Engineering. Moodle in https://eadceteli.ufam.edu.br/course/view.php?id=117 (status: ended in DECEMBER 2021)
 - 2020/02 (in 2021, because of pandemic) classes of Electric Materials (FTE040) for undergraduate course in Electrical Engineering. Moodle in https://eadceteli.ufam.edu.br/course/view.php?id=118 (status: ended in DECEMBER 2021)
 - 2020/01 (in 2021, because of pandemic) classes of Energy Convertion (FTE032) for undergraduate course in Computer Engineering. Moodle in https://ava.ufam.edu.br/ceteli/course/view.php?id=66 (status: ended in JULY  2021)
 - 2020/01 (in 2021, because of pandemic) laboratory of Energy Convertion (FTE052) for undergraduate course in Computer Engineering. Moodle in https://ava.ufam.edu.br/ceteli/course/view.php?id=67 (status: ended in JULY  2021)
@@ -92,6 +93,7 @@
 - 
 
 ## Conference, Seminar and Journal Referee :man_judge:
+- VI International Seminar on Meteorology and Climatology of Amazonas (SIMCA) 2024 (28 and 29 November of 2024). (https://www.even3.com.br/vi-seminario-internacional-de-meteorologia-e-climatologia-do-amazonas-simca-468285/)  - Conference Proceedings not available yet
 - V International Seminar on Meteorology and Climatology of Amazonas (SIMCA) 2023 (28 and 29 September de 2023). https://www.even3.com.br/v-seminario-internacional-de-meteorologia-e-climatologia-do-amazonas-378348/ - Conference Proceedings available in https://bit.ly/V_SIMCA
 - CBA Automatica 2020. Brazilian Congress of Automatics. Thematic axes: monitoring and management via automation systems https://cba2020.galoa.com.br/
 
@@ -121,9 +123,9 @@
 
 
 ## Undergraduation Thesis Guidance :man_student:
+- :new: 2024,'Estudo de caso de viabilidade, projeto e simulação de solução de eletrificação rural com fonte renovável para comunidade Ribeirinha do Amazonas', Electrical Engineering student Josekson Gonçalves da Silva (josekson667@gmail.com). Complete document at https://drive.google.com/file/d/1ZMF_d4eqyB8sBd-Mp-XD55z0Z_R4voFP/view?usp=sharing
+- :new: 2024, 'Estudo de Viabilidade Técnica e Econômica de Sistema Fotovoltaico Híbrido com Baterias na Configuração Grid Zero',  Electrical Engineering student Erick Santos de Almeida (erickalmeida162@gmail.com). Complete document at https://drive.google.com/file/d/1n4SLvR6sXtQu9wwx0BP2ssAt7hxmeUk2/view?usp=sharing
 - :new: 2024, 'Estudo do uso de Energia Solar Fotovoltaica no Telhado dos Prédios da Faculdade de Tecnologia da UFAM', Electrical Engineering student Ingrid Tainah Alcântara de Sena (ingridalcantara@ufam.edu.br). Complete document at https://drive.google.com/file/d/1Bs65741cYHoYKUwDyl7YDH03wVr4ZI_f/view?usp=sharing
-- :new: 2024, 'Estudo de viabilidade, projeto e simulação de solução de eletrificação rural com fonte renovável para comunidade Ribeirinha, estudo de caso', Electrical Engineering student Josekson Silva (josekson667@gmail.com). Planned to December of 2024
-- :new: 2024, 'Estudo de Viabilidade Técnica e Econômica de Sistema Fotovoltaico Híbrido com Baterias',  Electrical Engineering student Erick Almeida (erickalmeida162@gmail.com). Planned to December of 2024
 - 2023, 'Aprendizagem de máquina como ferramenta de planejamento energético: estudo de caso aplicado a comunidades não eletrificadas do baixo Rio Negro no Amazonas', Computing Engineering student Luís Henrique Raheem Simões (luishenriquers4@gmail.com) (finished in 8th of November 2023), complete document at https://drive.google.com/file/d/1k3QNsoYhW4rgAcshKCMOogwrbKU0ycqD/view?usp=sharing
 - 2022, 'Uso de energia solar fotovoltaica e de biodigestor na comunidade Três Unidos: estudo de caso', Electrical Engineering student Alice Amazonas Lima (limalice.aal@gmail.com), complete document at https://drive.google.com/file/d/1O0qNet2Mt0Syn36qwC0x-4f8tK3jOseD/view?usp=sharing
 - 2022, 'Proposta de Implantação de um Sistema de Energia Solar Fotovoltaica no Estacionamento da Faculdade de Tecnologia: uso para redução de consumo de energia e para laboratório', Electrical Engineering student Jeovana Silva Leão (jeo.sleao@gmail.com), complete document at https://drive.google.com/file/d/1PKX7qUvXyRUJumBtEvBtDbBycnLWz8b6/view?usp=sharing  
