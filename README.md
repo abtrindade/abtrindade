@@ -23,7 +23,6 @@
 
 ## Recent Teaching :man_teacher:
 (Department of Electricity from Federal University of Amazonas/UFAM, Manaus, Amazonas, Brazil)
-- :new: 2025/1 classes of ???? (not defined yet) (status: to be started in March of 2025)
 - 2025/1 classes of Introduction to Electrical Engineering (FTE059) for undergraduate course in Electrical Engineering (status: Started in March of 2025)
 - 2025/1 classes of Electromechanical Energy Conversion (FTE064) for undergraduate course in Electrical Engineering (status: Started in March of 2025)
 - 2025/1 Laboratory of Energy Convertion (FTE052) for undergraduate course in Computer Engineering (status: Started in March of 2025)
