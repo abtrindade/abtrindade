@@ -104,6 +104,7 @@
 - 
 
 ## Conference, Seminar and Journal Referee :man_judge:
+- :new: 18th Brazilian Power Electronics Conference - COBEP 2025 - paper reviewer - October'2025
 - VI International Seminar on Meteorology and Climatology of Amazonas (SIMCA) 2024 (28 and 29 November of 2024). (https://www.even3.com.br/vi-seminario-internacional-de-meteorologia-e-climatologia-do-amazonas-simca-468285/)  - Conference Proceedings not available yet
 - V International Seminar on Meteorology and Climatology of Amazonas (SIMCA) 2023 (28 and 29 September de 2023). https://www.even3.com.br/v-seminario-internacional-de-meteorologia-e-climatologia-do-amazonas-378348/ - Conference Proceedings available in https://bit.ly/V_SIMCA
 - CBA Automatica 2020. Brazilian Congress of Automatics. Thematic axes: monitoring and management via automation systems https://cba2020.galoa.com.br/
