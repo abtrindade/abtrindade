@@ -85,7 +85,8 @@
 
   
 ## R&D Projects and Grants :man_scientist: :dollar: 
-- :new: PI of the project "Rabetas solares com motor elétrico para comunidades ribeirinhas", Chamada: CHAMADA CNPQ/MCTI Nº 44/2024 - Faixa A - Grupos Emergentes, Processo: 405378/2025-4, em fase de contratação (NOV-2025)
+- :new: PI of the project "Solar-powered electric longtail motorboats for riverside communities.", Chamada: CHAMADA CNPQ/MCTI Nº 44/2024 - Faixa A - Grupos Emergentes, Processo: 405378/2025-4, em fase de contratação (NOV-2025)
+- :new: Coordinator of the university extension project entitled "Tupé: energy and sustainable development 2025" - contracted in 15/SEP/2025
 - :new: Researcher of the project 'Sustainable Amazon: Generation, Storage, Distribution of Renewable Energy, Smart Grids and Second Life Batteries'. Call CNPq/MCTI/FNDCT Nº 19/2024 - Line 2 - Consolidated Research Groups, coordinated by Yurimiler Leyet Ruiz yurimiler@pq.cnpq.br. Started in MAR/2025
 - :new: Researcher of the projetc 'Use of photovoltaic solar panels as a technology for integrated and sustainable sheep production in the Amazon' -  Call N. 011/2024 - PAP – AGRO/FAPEAM Coordinator Severino Guilherme Caetano Gonçalves dos Santos severinoguilhermecg@gmail.com. Started in November of 2025
 - :new: Researcher of the project 'Study for the generation of triglycerides and biogas from the processing of fish waste from the Legal Amazon' – ANP R&D – Proponent and manager: FGV Energia (Luiz Roberto Bezerra). UFAM Coordination: Prof. Eron Bezerra (FCA, LASR) and Prof. Tereza Cristina Souza de Oliveira (Chemistry). Started in June 2025
