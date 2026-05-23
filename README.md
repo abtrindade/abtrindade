@@ -23,8 +23,11 @@
 
 ## Recent Teaching :man_teacher:
 (Department of Electricity from Federal University of Amazonas/UFAM, Manaus, Amazonas, Brazil)
-- :new: 2025/2 Classes of Electrical Measurements and Instrumentation (FTE060) for undergraduate course in Electrical Engineering (status: started in August of 2025)
-- :new: 2025/2 Classes of Electrical Safety Engineering (FTE065) for undergraduate course in Electrical Engineering (status: started in August of 2025)
+- :new: 2026/1 classes of Introduction to Electrical Engineering (FTE059) for undergraduate course in Electrical Engineering (status: started in March of 2026)
+- :new: 2026/1 classes of Electromechanical Energy Conversion (FTE064) for undergraduate course in Electrical Engineering (status: started in March of 2026)
+- :new: 2026/1 Laboratory of Energy Convertion (FTE052) for undergraduate course in Computer Engineering and Electrical Engineering (status: started in March of 2026)
+- 2025/2 Classes of Electrical Measurements and Instrumentation (FTE060) for undergraduate course in Electrical Engineering (status: finished in December of 2025)
+- 2025/2 Classes of Electrical Safety Engineering (FTE065) for undergraduate course in Electrical Engineering (status: finished in December of 2025)
 - 2025/1 classes of Introduction to Electrical Engineering (FTE059) for undergraduate course in Electrical Engineering (status: finished in July of 2025)
 - 2025/1 classes of Electromechanical Energy Conversion (FTE064) for undergraduate course in Electrical Engineering (status: finished in July of 2025)
 - 2025/1 Laboratory of Energy Convertion (FTE052) for undergraduate course in Computer Engineering (status: finished in July of 2025)
@@ -33,7 +36,7 @@
 - 2024/1 classes of Introduction to Electrical Engineering (FTE059) for undergraduate course in Electrical Engineering (status: finished in August of 2024)
 - 2024/1 classes of Electromechanical Energy Conversion (FTE064) for undergraduate course in Electrical Engineering (status: finished in August of 2024)
 - 2024/1 Laboratory of Energy Convertion (FTE052) for undergraduate course in Computer Engineering (status: finished in August of 2024)
-- 2023/02 classes of Electric Materials (FTE040) for undergraduate course in Electrical Engineering (status: finished in April 2024)
+<!-- - 2023/02 classes of Electric Materials (FTE040) for undergraduate course in Electrical Engineering (status: finished in April 2024)
 - 2023/02 classes of Electrical Installations (FTE042 and FTE086) for undergraduate course in Building Engineering (status: finished in April 2024)
 - 2023/01 classes of Introduction to Electrical Engineering (FTE059) for undergraduate course in Electrical Engineering (status: ended in November 2023)
 - 2023/01 classes of Electromechanical Energy Conversion (FTE064) for undergraduate course in Electrical Engineering (status: ended in November 2023)
@@ -43,7 +46,7 @@
 - 2022/01 classes of Introduction to Electrical Engineering (FTE059) for undergraduate course in Electrical Engineering (status: ended in March 2023)
 - 2022/01 classes of Energy Convertion (FTE032) for undergraduate course in Computer Engineering (status: ended in March 2023)
 - 2022/01 Laboratory of Energy Convertion (FTE052) for undergraduate course in Electrical Engineering (status: ended in March 2023)
-<!--- 2021/02 (in 2022, because of pandemic) classes of Electrical Installations (FTE042) for undergraduate course in Building Engineering. Hybrid with support material at Moodle in https://eadceteli.ufam.edu.br/course/view.php?id=185 (status: ended in September 2022)
+- 2021/02 (in 2022, because of pandemic) classes of Electrical Installations (FTE042) for undergraduate course in Building Engineering. Hybrid with support material at Moodle in https://eadceteli.ufam.edu.br/course/view.php?id=185 (status: ended in September 2022)
 - 2021/02 (in 2022, because of pandemic) classes of Electric Materials (FTE040) for undergraduate course in Electrical Engineering. Hybrid with support material at Moodle in https://eadceteli.ufam.edu.br/course/view.php?id=186 (status: ended in September 2022) 
 - 2021/01 (in 2022, because of pandemic) classes of Introduction to Electrical Engineering (FTE059) for undergraduate course in Electrical Engineering. Moodle in https://eadceteli.ufam.edu.br/course/view.php?id=164 (status: ended in MAY 2022)
 - 2021/01 (in 2022, because of pandemic) classes of Energy Convertion (FTE032) for undergraduate course in Computer Engineering. Moodle in https://eadceteli.ufam.edu.br/course/view.php?id=163 (status: ended in MAY 2022)
@@ -60,7 +63,7 @@
 
 
 ## Selected Publications :page_facing_up:
-- 🆕 Ueda, C. B., Trindade, A. B., & Cordeiro, L. (Accepted/In press). Comparative Technical and Economic Performance of Four Inverter Architectures in Urban PV Microgeneration Systems. In IEEE PES ISGT Latin America 2025 IEEE. https://research.manchester.ac.uk/en/publications/comparative-technical-and-economic-performance-of-four-inverter-a/
+- 🆕 C. B. Ueda, A. B. Trindade and L. C. Cordeiro, "Comparative Technical and Economic Performance of Four Inverter Architectures in Urban PV Microgeneration Systems," 2025 IEEE PES Innovative Smart Grid Technologies Conference - Latin America (ISGT LA), Panama, Panama, 2025, pp. 1-6, doi: 10.1109/ISGTLA64895.2025.11371038.
 - Queiroz, Laura; Trindade, Alessandro. "Aplicando Mineração de Dados e Aprendizagem de Máquina para Planejamento Energético de Comunidades Ribeirinhas — Estudo de Caso da Reserva do Tupé no Amazonas". X Simpósio Brasileiro de Sistemas Elétricos (SBSE). 2023. In https://drive.google.com/file/d/1jTs5efc4Q0QGkZbfjGRPcvtrw8SBCYQC/view?usp=sharing; Presentation slides in https://easychair.org/smart-slide/slide/BkWD
 - Lima, Alice; Trindade, Alessandro. "Uso de energia solar fotovoltaica e de biodigestor na comunidade indígena Três Unidos: estudo de caso". X Simpósio Brasileiro de Sistemas Elétricos (SBSE). 2023. In https://drive.google.com/file/d/1vqcZTvSVb-IlZMCGwgGjwZ_8PXNOJ-m6/view?usp=sharing; Presentation slides in: https://easychair.org/smart-slide/slide/mPRZ
 - Trindade, Alessandro; Simoes, Luis; Correa, Samuel. "Ciência de dados aplicada a questionários coletados de comunidade não eletrificadas do baixo Rio Negro no Amazonas". XIII Congresso Brasileiro de Planejamento Energético CBPE. (2022). In ANAIS DO XIII CONGRESSO BRASILEIRO DE PLANEJAMENTO ENERGÉTICO, ISBN: 978-65-992540-1-7. Sociedade Brasileira de Planejamento Energético (SBPE), Itajubá-MG. Paper in Portuguese: https://drive.google.com/file/d/124OtA94NSTI1fl266R6ko4XFHkrXxJSa/view?usp=sharing Poster in Portuguese: https://drive.google.com/file/d/1GRkPn4B55xkbyXWdN9ogpQQjm6ZJXuC5/view?usp=sharing. Anais in https://www.xiiicbpe.com.br/storage/anais/Anais_XIIICBPE.pdf
