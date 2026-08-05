@@ -2,12 +2,13 @@
 
 - :mag: CV (resume) in Brazilian academic online format `Lattes` http://lattes.cnpq.br/4511445991061477 
 - `ORCID`: https://orcid.org/0000-0001-8262-2919
+- :new: Iḿ currently doing my postdoc at UFSC (Fotovoltaica Lab https://fotovoltaica.ufsc.br/sistemas/fotov/) under supervision of Prof. Ricardo Rüther (http://lattes.cnpq.br/5669240020541721)
 <!--- - 🔭 I’m currently working on `data analysis` related to riverside communities monitored in respect to `generation and consumption of solar photovoltaic energy`; (as well) I am working on how to speed up the `optimization` process of `automated synthesis`. Besides the use of ESP8266 NodeMcu and Arduino in `IoT`
 - 🌱 I’m currently exploring `machine learning` (ML) and data analysis with Weka and Orange tools; deep diving in optimization with `model checking`; and the use of IoT with `NodeMCU` or `Arduino`-->
 - 👯 I’m looking to collaborate on `R&D projects` related to rural electrification and/or formal synthesis/verification of electrical systems, mainly with `international cooperation/funding`.
-- 🤔 I’m looking for help with vZ and binary search for optimization; and the use of ML in health studies and surveyed data from riverside communities.
+<!--- - 🤔 I’m looking for help with vZ and binary search for optimization; and the use of ML in health studies and surveyed data from riverside communities. -->
 - 💬 Ask me about rural electrification in the Amazon basin, about automated verification applied to cyber-physical systems, and about automated synthesis applied to solar photovoltaic systems.
-- Since NOV/2015 working as Professor of the Electrical Engineering undergraduation course at UFAM (https://eletrotecnicaeng.sites.ufam.edu.br/); and since AUG/2022 as Professor of the Electrical Engineering Graduate Program at UFAM (https://ppgee.ufam.edu.br/)
+- Since NOV/2015 working as Professor of the School of Electrical and Computer Engineering at UFAM (https://feec.ufam.edu.br/); and since AUG/2022 as Professor of the Electrical Engineering Graduate Program at UFAM (https://ppgee.ufam.edu.br/)
 - :pray: Philanthropy and assistance work for the most needy? Yes, I do too. Specially if it is linked to an action coordinated by the Catholic church, as in https://www.paroquiaguadalupemanaus.com/ and https://pnsnazare.org.br/
 - 📫 How to reach me: alessandrotrindade@ufam.edu.br
 - :page_facing_up: ResearchGate: https://www.researchgate.net/profile/Alessandro_Trindade
@@ -23,9 +24,10 @@
 
 ## Recent Teaching :man_teacher:
 (Department of Electricity from Federal University of Amazonas/UFAM, Manaus, Amazonas, Brazil)
-- :new: 2026/1 classes of Introduction to Electrical Engineering (FTE059) for undergraduate course in Electrical Engineering (status: started in March of 2026)
-- :new: 2026/1 classes of Electromechanical Energy Conversion (FTE064) for undergraduate course in Electrical Engineering (status: started in March of 2026)
-- :new: 2026/1 Laboratory of Energy Convertion (FTE052) for undergraduate course in Computer Engineering and Electrical Engineering (status: started in March of 2026)
+- :new: Without classes from 2026/2 to 2027/1 (post-doc stage at UFSC - Lab Fotovoltaica, focused in Second-Life Batteries and Green Hydrogen)
+- 2026/1 classes of Introduction to Electrical Engineering (FTE059) for undergraduate course in Electrical Engineering (status: finished in July of 2026)
+- 2026/1 classes of Electromechanical Energy Conversion (FTE064) for undergraduate course in Electrical Engineering (status: finished in July of 2026)
+- 2026/1 Laboratory of Energy Convertion (FTE052) for undergraduate course in Computer Engineering and Electrical Engineering (status: finished in July of 2026)
 - 2025/2 Classes of Electrical Measurements and Instrumentation (FTE060) for undergraduate course in Electrical Engineering (status: finished in December of 2025)
 - 2025/2 Classes of Electrical Safety Engineering (FTE065) for undergraduate course in Electrical Engineering (status: finished in December of 2025)
 - 2025/1 classes of Introduction to Electrical Engineering (FTE059) for undergraduate course in Electrical Engineering (status: finished in July of 2025)
@@ -88,12 +90,13 @@
 
   
 ## R&D Projects and Grants :man_scientist: :dollar: 
-- :new: PI of the project "Solar-powered electric longtail motorboats for riverside communities.", Chamada: CHAMADA CNPQ/MCTI Nº 44/2024 - Faixa A - Grupos Emergentes, Processo: 405378/2025-4, em fase de contratação (NOV-2025)
+- 🆕 Researcher of the Project "ECOS: Higher Education Partnership to Promote Sustainable Communities: advancing Teaching and Research in Ecological Construction and in the Optimization of Renewable Energy Systems", call DAAD SDG Goals 2025 (https://www.daad.de/en/information-services-for-higher-education-institutions/further-information-on-daad-programmes/sdg-partnerships/), in partnership with Technische Hochschule Ingolstadt (`THI`) Germany, Universidad EIA Colombia and UFAM - Started in May/2026
+- :new: PI of the project "Solar-powered electric longtail motorboats for riverside communities.", Chamada: CHAMADA CNPQ/MCTI Nº 44/2024 - Faixa A - Grupos Emergentes, Processo: 405378/2025-4, Started in November/2025
 - :new: Coordinator of the university extension project entitled "Tupé: energy and sustainable development 2025" - contracted in 15/SEP/2025
 - :new: Researcher of the project 'Sustainable Amazon: Generation, Storage, Distribution of Renewable Energy, Smart Grids and Second Life Batteries'. Call CNPq/MCTI/FNDCT Nº 19/2024 - Line 2 - Consolidated Research Groups, coordinated by Yurimiler Leyet Ruiz yurimiler@pq.cnpq.br. Started in MAR/2025
 - :new: Researcher of the projetc 'Use of photovoltaic solar panels as a technology for integrated and sustainable sheep production in the Amazon' -  Call N. 011/2024 - PAP – AGRO/FAPEAM Coordinator Severino Guilherme Caetano Gonçalves dos Santos severinoguilhermecg@gmail.com. Started in November of 2025
-- :new: Researcher of the project 'Study for the generation of triglycerides and biogas from the processing of fish waste from the Legal Amazon' – ANP R&D – Proponent and manager: FGV Energia (Luiz Roberto Bezerra). UFAM Coordination: Prof. Eron Bezerra (FCA, LASR) and Prof. Tereza Cristina Souza de Oliveira (Chemistry). Started in June 2025
-- :new: Researcher of the project 'Energy Use of Oilseed Plants in the Amazon Region: Value Generation and Regional Development (Green Diesel)' – Aneel R&D (ENEVA) - Coordinator: Prof. Patrícia Melchionna Albuquerque (UEA). UFAM Coordination: Prof. Eron Bezerra. Started in June 2025
+- Researcher of the project 'Study for the generation of triglycerides and biogas from the processing of fish waste from the Legal Amazon' – ANP R&D – Proponent and manager: FGV Energia (Luiz Roberto Bezerra). UFAM Coordination: Prof. Eron Bezerra (FCA, LASR) and Prof. Tereza Cristina Souza de Oliveira (Chemistry). Started in June 2025, Finished in April 2026
+- Researcher of the project 'Energy Use of Oilseed Plants in the Amazon Region: Value Generation and Regional Development (Green Diesel)' – Aneel R&D (ENEVA) - Coordinator: Prof. Patrícia Melchionna Albuquerque (UEA). UFAM Coordination: Prof. Eron Bezerra. Started in June 2025, Finished in April 2026
 - Researcher of the project 'Interoperable Research Infrastructure for Managing Sustainable Grid Cells', in partnership with `Bielefeld University of Applied Sciences`, `Graz University of Technology`, Federal University of Amazonas Brazil, `Universidad Mayor de San Andrés` Bolivia, `Universidad Tecnológica de Panamá` and the associated partner university `Universidad Tecnológica La Salle` Nicaragua. Funding from 4th EU-LAC Joint Call in STI 2022 and FAPEAM with support of € 271,511. Started in January 2023 https://www.eucelac-platform.eu/project/interoperable-research-infrastructure-managing-sustainable-grid-cells 
 - (finished in 2023) Researcher of the project 'Robust solar powered storage systems with second-life batteries and their economic and ecological potential', in partnership with Technische Hochschule Ingolstadt (`THI`) Germany, University of Duisburg-Essen (`UDE`), UFAM, Instituto Federal de Santa Catarina (`IFSC`), Universidade Federal de Santa Catarina (`UFSC`). Funding from DAAD German-Brazilian research cooperation in the energy sector – NoPa 2.0/ cooperation in the areas of green hydrogen/PtX, direct electrification and energy storage. Started in January 2023 and finished in December 2023 https://aware.thi.de/en/about-aware/funding-projects/2lifebat/ 
 - (finished in 2023) Researcher of the project 'Smart biosolar microgrids for sustainable communities', in partnership with `Universidade Federal de Minas Gerais`, `The University of Sheffield`, `University Of Ghana`, `Makerere University`. Funding from WUN (Worldwide Universities Network) with support of £ 10,000.00. Started in FEB/2022. Duration: 12 months https://wun.ac.uk/wun/research/view/smart-biosolar-microgrids-for-sustainable-communities/
@@ -108,10 +111,11 @@
 - 
 
 ## Conference, Seminar and Journal Referee :man_judge:
-- :new: 18th Brazilian Power Electronics Conference - COBEP 2025 - paper reviewer - October'2025
-- VI International Seminar on Meteorology and Climatology of Amazonas (SIMCA) 2024 (28 and 29 November of 2024). (https://www.even3.com.br/vi-seminario-internacional-de-meteorologia-e-climatologia-do-amazonas-simca-468285/)  - Conference Proceedings not available yet
+- VII International Seminar on Meteorology and Climatology of Amazonas (SIMCA) 2025 (18 to 22 August of 2025 in Belem/PA). Proceedings at https://sic2025.com.br/files/anais_sic_isbn.pdf
+- 18th Brazilian Power Electronics Conference - COBEP 2025 - paper reviewer - October'2025
+- VI International Seminar on Meteorology and Climatology of Amazonas (SIMCA) 2024 (28 and 29 November of 2024). (https://www.even3.com.br/vi-seminario-internacional-de-meteorologia-e-climatologia-do-amazonas-simca-468285/)  - Conference Proceedings (https://edocbrasil.com.br/extremos-climaticos-na-amazonia-e-estrategias-de-reducao/) DOI https://doi.org/10.70271/260223.1418 ISBN 978-65-89805-57-1
 - V International Seminar on Meteorology and Climatology of Amazonas (SIMCA) 2023 (28 and 29 September de 2023). https://www.even3.com.br/v-seminario-internacional-de-meteorologia-e-climatologia-do-amazonas-378348/ - Conference Proceedings available in https://bit.ly/V_SIMCA
-- CBA Automatica 2020. Brazilian Congress of Automatics. Thematic axes: monitoring and management via automation systems https://cba2020.galoa.com.br/
+- CBA Automatica 2020. Brazilian Congress of Automatics. Thematic axes: monitoring and management via automation systems https://cba2020.galoa.com.br/ Paper reviewer
 
 
 ## Conference/Congress Talks/Lives :speaking_head:
@@ -136,13 +140,14 @@
 
 
 ## Graduation Thesis Guidance :man_student:
-- :new: 2024, “Design of photovoltaic off-grid systems with second-life batteries: a case study from riverside communities in the Amazon”, Master Thesis submitted by Khushboo Akhter to the Faculty of Mechanical Engineering of Technische Hochschule Ingolstadt (THI), Study program “Renewable Energy Systems" https://www.thi.de/en/mechanical-engineering/degree-programmes/renewable-energy-systems-msc/. Supervisor Prof. Dr.-Ing. Daniel Navarro Gevers (daniel.navarrogevers@thi.de). Advisor Prof. Dr.-Ing. Alessandro Bezerra Trindade. Complete document at https://opus4.kobv.de/opus4-haw/frontdoor/index/index/docId/5142
+- 2024, “Design of photovoltaic off-grid systems with second-life batteries: a case study from riverside communities in the Amazon”, Master Thesis submitted by Khushboo Akhter to the Faculty of Mechanical Engineering of Technische Hochschule Ingolstadt (THI), Study program “Renewable Energy Systems" https://www.thi.de/en/mechanical-engineering/degree-programmes/renewable-energy-systems-msc/. Supervisor Prof. Dr.-Ing. Daniel Navarro Gevers (daniel.navarrogevers@thi.de). Advisor Prof. Dr.-Ing. Alessandro Bezerra Trindade. Complete document at https://opus4.kobv.de/opus4-haw/frontdoor/index/index/docId/5142
 
 
 ## Undergraduation Thesis Guidance :man_student:
-- :new: 2024,'Estudo de caso de viabilidade, projeto e simulação de solução de eletrificação rural com fonte renovável para comunidade Ribeirinha do Amazonas', Electrical Engineering student Josekson Gonçalves da Silva (josekson667@gmail.com). Complete document at https://drive.google.com/file/d/1ZMF_d4eqyB8sBd-Mp-XD55z0Z_R4voFP/view?usp=sharing
-- :new: 2024, 'Estudo de Viabilidade Técnica e Econômica de Sistema Fotovoltaico Híbrido com Baterias na Configuração Grid Zero',  Electrical Engineering student Erick Santos de Almeida (erickalmeida162@gmail.com). Complete document at https://drive.google.com/file/d/1n4SLvR6sXtQu9wwx0BP2ssAt7hxmeUk2/view?usp=sharing
-- :new: 2024, 'Estudo do uso de Energia Solar Fotovoltaica no Telhado dos Prédios da Faculdade de Tecnologia da UFAM', Electrical Engineering student Ingrid Tainah Alcântara de Sena (ingridalcantara@ufam.edu.br). Complete document at https://drive.google.com/file/d/1Bs65741cYHoYKUwDyl7YDH03wVr4ZI_f/view?usp=sharing
+- 🆕 2026, 'Proposta de um sistema agrivoltaico aplicado à agricultura em uma área da fazenda experimental da UFAM' Electrical Engineering student Matheus Cortes da Silva (matheuscortes97@gmail.com). Complete document at https://drive.google.com/file/d/1dbJqKCywSiuNdTWgJ2Za_UOuOp0o4MBh/view?usp=sharing
+- 2024,'Estudo de caso de viabilidade, projeto e simulação de solução de eletrificação rural com fonte renovável para comunidade Ribeirinha do Amazonas', Electrical Engineering student Josekson Gonçalves da Silva (josekson667@gmail.com). Complete document at https://drive.google.com/file/d/1ZMF_d4eqyB8sBd-Mp-XD55z0Z_R4voFP/view?usp=sharing
+- 2024, 'Estudo de Viabilidade Técnica e Econômica de Sistema Fotovoltaico Híbrido com Baterias na Configuração Grid Zero',  Electrical Engineering student Erick Santos de Almeida (erickalmeida162@gmail.com). Complete document at https://drive.google.com/file/d/1n4SLvR6sXtQu9wwx0BP2ssAt7hxmeUk2/view?usp=sharing
+- 2024, 'Estudo do uso de Energia Solar Fotovoltaica no Telhado dos Prédios da Faculdade de Tecnologia da UFAM', Electrical Engineering student Ingrid Tainah Alcântara de Sena (ingridalcantara@ufam.edu.br). Complete document at https://drive.google.com/file/d/1Bs65741cYHoYKUwDyl7YDH03wVr4ZI_f/view?usp=sharing
 - 2023, 'Aprendizagem de máquina como ferramenta de planejamento energético: estudo de caso aplicado a comunidades não eletrificadas do baixo Rio Negro no Amazonas', Computing Engineering student Luís Henrique Raheem Simões (luishenriquers4@gmail.com) (finished in 8th of November 2023), complete document at https://drive.google.com/file/d/1k3QNsoYhW4rgAcshKCMOogwrbKU0ycqD/view?usp=sharing
 - 2022, 'Uso de energia solar fotovoltaica e de biodigestor na comunidade Três Unidos: estudo de caso', Electrical Engineering student Alice Amazonas Lima (limalice.aal@gmail.com), complete document at https://drive.google.com/file/d/1O0qNet2Mt0Syn36qwC0x-4f8tK3jOseD/view?usp=sharing
 - 2022, 'Proposta de Implantação de um Sistema de Energia Solar Fotovoltaica no Estacionamento da Faculdade de Tecnologia: uso para redução de consumo de energia e para laboratório', Electrical Engineering student Jeovana Silva Leão (jeo.sleao@gmail.com), complete document at https://drive.google.com/file/d/1PKX7qUvXyRUJumBtEvBtDbBycnLWz8b6/view?usp=sharing  
