@@ -107,7 +107,7 @@
 -  updated overview at (https://docs.google.com/presentation/d/12bTq8h_DmQlOzAF5cPY0FUtzKhZXNYsUiF6V12l6PqM/edit?usp=sharing) in portuguese
 
 ## Innovation Institutional Scholarship Program for Technological Development and Innovation Initiation – PIBITI :bookmark:
-- At Federal University of Amazonas (UFAM) https://edoc.ufam.edu.br/bitstream/123456789/8409/1/SEI_UFAM%20-%202036778%20-%20Edital-PIBITI-PROTEC.pdf - 11 months project (from October of 2024 to August of 2025)- title "Influência de grandezas físicas e químicas nas tecnologias de painéis solares fotovoltaicos e seu impacto na eficiência da geração de energia de sistemas distribuídos" - undergraduate physics student ISAILA DA SILVA DAMASCENO (isailadamasceno@icloud.com) 
+- At Federal University of Amazonas (UFAM) https://edoc.ufam.edu.br/bitstream/123456789/8409/1/SEI_UFAM%20-%202036778%20-%20Edital-PIBITI-PROTEC.pdf - 11 months project (from October of 2024 to August of 2025)- title "Influence of physical and chemical parameters on photovoltaic solar panel technologies and their impact on the energy generation efficiency of distributed systems" - undergraduate physics student ISAILA DA SILVA DAMASCENO (isailadamasceno@icloud.com), Final Report at https://drive.google.com/file/d/1i7gPOzJI4Wwytu_mXL6HDIGp75qmUUiX/view?usp=sharing
 - 
 
 ## Conference, Seminar and Journal Referee :man_judge:
