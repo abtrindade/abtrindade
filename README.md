@@ -107,7 +107,7 @@
 -  updated overview at (https://docs.google.com/presentation/d/12bTq8h_DmQlOzAF5cPY0FUtzKhZXNYsUiF6V12l6PqM/edit?usp=sharing) in portuguese
 
 ## Innovation Institutional Scholarship Program for Technological Development and Innovation Initiation – PIBITI :bookmark:
-- At Federal University of Amazonas (UFAM) https://edoc.ufam.edu.br/bitstream/123456789/8409/1/SEI_UFAM%20-%202036778%20-%20Edital-PIBITI-PROTEC.pdf - 11 months project (from October of 2024 to August of 2025)- title "Influência de grandezas físicas e químicas nas tecnologias de painéis solares fotovoltaicos e seu impacto na eficiência da geração de energia de sistemas distribuídos" - undergraduate physics student ISAILA DA SILVA DAMASCENO (isailadamasceno@icloud.com)
+- At Federal University of Amazonas (UFAM) https://edoc.ufam.edu.br/bitstream/123456789/8409/1/SEI_UFAM%20-%202036778%20-%20Edital-PIBITI-PROTEC.pdf - 11 months project (from October of 2024 to August of 2025)- title "Influência de grandezas físicas e químicas nas tecnologias de painéis solares fotovoltaicos e seu impacto na eficiência da geração de energia de sistemas distribuídos" - undergraduate physics student ISAILA DA SILVA DAMASCENO (isailadamasceno@icloud.com) 
 - 
 
 ## Conference, Seminar and Journal Referee :man_judge:
@@ -140,6 +140,8 @@
 
 
 ## Graduation Thesis Guidance :man_student:
+- 🆕 2026, "Detection of Denial-of-Service Attacks on Internet-Connected Photovoltaic Inverters: A Machine Learning Ensemble Approach", ELTON JOHN CARVALHO DOS SANTOS (eltcarva@gmail.com), Master Thesis of Graduate Program in Electrical Engineering at UFAM, Defended on July 3, 2026, File available at: https://drive.google.com/file/d/1ycG0q1TnCLcRlP68f7UrexqI-O2GmcK4/view?usp=sharing
+- 2026, "Techno-Economic Performance Analysis of On-Grid Distributed Solar Photovoltaic Micro-generation in the City of Manaus", Cristiane Brasil Ueda (chrizbrasil@gmail.com), Master Thesis of Graduate Program in Electrical Engineering at UFAM, Not Defended yet
 - 2024, “Design of photovoltaic off-grid systems with second-life batteries: a case study from riverside communities in the Amazon”, Master Thesis submitted by Khushboo Akhter to the Faculty of Mechanical Engineering of Technische Hochschule Ingolstadt (THI), Study program “Renewable Energy Systems" https://www.thi.de/en/mechanical-engineering/degree-programmes/renewable-energy-systems-msc/. Supervisor Prof. Dr.-Ing. Daniel Navarro Gevers (daniel.navarrogevers@thi.de). Advisor Prof. Dr.-Ing. Alessandro Bezerra Trindade. Complete document at https://opus4.kobv.de/opus4-haw/frontdoor/index/index/docId/5142
 
 
