@@ -2,7 +2,7 @@
 
 - :mag: CV (resume) in Brazilian academic online format `Lattes` http://lattes.cnpq.br/4511445991061477 
 - `ORCID`: https://orcid.org/0000-0001-8262-2919
-- :new: Iḿ currently doing my postdoc at UFSC (Fotovoltaica Lab https://fotovoltaica.ufsc.br/sistemas/fotov/) under supervision of Prof. Ricardo Rüther (http://lattes.cnpq.br/5669240020541721)
+- :new: I'm currently doing my postdoc at UFSC (Fotovoltaica Lab https://fotovoltaica.ufsc.br/sistemas/fotov/) under supervision of Prof. Ricardo Rüther (http://lattes.cnpq.br/5669240020541721). From 09/SEP to 31/10 stage in Germany: UDE University (https://www.uni-due.de/en/) with the team from the General Business Administration & International Automotive Management (https://www.uni-due.de/iam/start_en.php); THI University (https://www.thi.de/en/) with the C-ECOS CARISSMA team (https://www.thi.de/en/research/carissma/) and for 30 days as Lecturer with the ECOS project team of InES (https://www.thi.de/en/research/institute-of-new-energy-systems-ines/)
 <!--- - 🔭 I’m currently working on `data analysis` related to riverside communities monitored in respect to `generation and consumption of solar photovoltaic energy`; (as well) I am working on how to speed up the `optimization` process of `automated synthesis`. Besides the use of ESP8266 NodeMcu and Arduino in `IoT`
 - 🌱 I’m currently exploring `machine learning` (ML) and data analysis with Weka and Orange tools; deep diving in optimization with `model checking`; and the use of IoT with `NodeMCU` or `Arduino`-->
 - 👯 I’m looking to collaborate on `R&D projects` related to rural electrification and/or formal synthesis/verification of electrical systems, mainly with `international cooperation/funding`.
@@ -33,12 +33,12 @@
 - 2025/1 classes of Introduction to Electrical Engineering (FTE059) for undergraduate course in Electrical Engineering (status: finished in July of 2025)
 - 2025/1 classes of Electromechanical Energy Conversion (FTE064) for undergraduate course in Electrical Engineering (status: finished in July of 2025)
 - 2025/1 Laboratory of Energy Convertion (FTE052) for undergraduate course in Computer Engineering (status: finished in July of 2025)
-- 2024/2 classes of Electrical Safety Engineering (FTE065) for undergraduate course in Electrical Engineering (status: finished in December of 2024)
+<!-- - 2024/2 classes of Electrical Safety Engineering (FTE065) for undergraduate course in Electrical Engineering (status: finished in December of 2024)
 - 2024/2 classes of Electrical Installations (FTE042 and FTE086) for undergraduate course in Building Engineering (status: finished in December of 2024) 
 - 2024/1 classes of Introduction to Electrical Engineering (FTE059) for undergraduate course in Electrical Engineering (status: finished in August of 2024)
 - 2024/1 classes of Electromechanical Energy Conversion (FTE064) for undergraduate course in Electrical Engineering (status: finished in August of 2024)
 - 2024/1 Laboratory of Energy Convertion (FTE052) for undergraduate course in Computer Engineering (status: finished in August of 2024)
-<!-- - 2023/02 classes of Electric Materials (FTE040) for undergraduate course in Electrical Engineering (status: finished in April 2024)
+- 2023/02 classes of Electric Materials (FTE040) for undergraduate course in Electrical Engineering (status: finished in April 2024)
 - 2023/02 classes of Electrical Installations (FTE042 and FTE086) for undergraduate course in Building Engineering (status: finished in April 2024)
 - 2023/01 classes of Introduction to Electrical Engineering (FTE059) for undergraduate course in Electrical Engineering (status: ended in November 2023)
 - 2023/01 classes of Electromechanical Energy Conversion (FTE064) for undergraduate course in Electrical Engineering (status: ended in November 2023)
@@ -65,7 +65,8 @@
 
 
 ## Selected Publications :page_facing_up:
-- 🆕 C. B. Ueda, A. B. Trindade and L. C. Cordeiro, "Comparative Technical and Economic Performance of Four Inverter Architectures in Urban PV Microgeneration Systems," 2025 IEEE PES Innovative Smart Grid Technologies Conference - Latin America (ISGT LA), Panama, Panama, 2025, pp. 1-6, doi: 10.1109/ISGTLA64895.2025.11371038.
+- 🆕 Santos E., Trindade A., Cordeiro L.C. (2026) "Cyberattack Vectors in Photovoltaic Systems: Applying Artificial Intelligence for Internet-Connected Inverter Monitoring" Proceedings from IEEE Colombian Conference on Communications and Computing (COLCOM) - Medellin, Colombia. Paper at https://drive.google.com/file/d/1rgzHCcuNMVLXTXTEuhZgGRR1gpSxPP9x/view?usp=sharing (complete proceedings at https://drive.google.com/file/d/1-leyGEgiTlJg6mi3Lk4FuOPDntC4tocs/view)
+- C. B. Ueda, A. B. Trindade and L. C. Cordeiro, "Comparative Technical and Economic Performance of Four Inverter Architectures in Urban PV Microgeneration Systems," 2025 IEEE PES Innovative Smart Grid Technologies Conference - Latin America (ISGT LA), Panama, Panama, 2025, pp. 1-6, doi: 10.1109/ISGTLA64895.2025.11371038.
 - Queiroz, Laura; Trindade, Alessandro. "Aplicando Mineração de Dados e Aprendizagem de Máquina para Planejamento Energético de Comunidades Ribeirinhas — Estudo de Caso da Reserva do Tupé no Amazonas". X Simpósio Brasileiro de Sistemas Elétricos (SBSE). 2023. In https://drive.google.com/file/d/1jTs5efc4Q0QGkZbfjGRPcvtrw8SBCYQC/view?usp=sharing; Presentation slides in https://easychair.org/smart-slide/slide/BkWD
 - Lima, Alice; Trindade, Alessandro. "Uso de energia solar fotovoltaica e de biodigestor na comunidade indígena Três Unidos: estudo de caso". X Simpósio Brasileiro de Sistemas Elétricos (SBSE). 2023. In https://drive.google.com/file/d/1vqcZTvSVb-IlZMCGwgGjwZ_8PXNOJ-m6/view?usp=sharing; Presentation slides in: https://easychair.org/smart-slide/slide/mPRZ
 - Trindade, Alessandro; Simoes, Luis; Correa, Samuel. "Ciência de dados aplicada a questionários coletados de comunidade não eletrificadas do baixo Rio Negro no Amazonas". XIII Congresso Brasileiro de Planejamento Energético CBPE. (2022). In ANAIS DO XIII CONGRESSO BRASILEIRO DE PLANEJAMENTO ENERGÉTICO, ISBN: 978-65-992540-1-7. Sociedade Brasileira de Planejamento Energético (SBPE), Itajubá-MG. Paper in Portuguese: https://drive.google.com/file/d/124OtA94NSTI1fl266R6ko4XFHkrXxJSa/view?usp=sharing Poster in Portuguese: https://drive.google.com/file/d/1GRkPn4B55xkbyXWdN9ogpQQjm6ZJXuC5/view?usp=sharing. Anais in https://www.xiiicbpe.com.br/storage/anais/Anais_XIIICBPE.pdf
@@ -106,9 +107,36 @@
 -  (finished in 2019) Researcher and deputy of the project "Sustainable and Replicable Off-grid Renewable Energy System for Riverside Communities in the Amazon, Brazil", Call Institutional Link Grant for Brazil-UK in partnership with `Coventry University` (UK), Fundação Amazonas Sustentável (FAS), SCENE (UK), and Schneider Electric. Duration: 24 months (from APR/2017 to MAR/2019). Grant from Newton Fund/British Council: £ 60,000.00 + in-kind partiners support. https://www.coventry.ac.uk/research/research-directories/current-projects/2019/star-energy-sustainable-and-replicable-off-grid-renewable-energy-system-for-riverside-communities-in-the-amazon/ http://star-energy.coventry.ac.uk/ https://www.youtube.com/watch?v=TNvUiXSffb4 (2018 video during PV systems deployment) https://drive.google.com/file/d/124d4CVTovHObQKUYUOHZ8ujgAFE9px2t/view?usp=sharing (2019 vídeo about PV system deployments)
 -  updated overview at (https://docs.google.com/presentation/d/12bTq8h_DmQlOzAF5cPY0FUtzKhZXNYsUiF6V12l6PqM/edit?usp=sharing) in portuguese
 
+## 🌐 Alignment with UN Sustainable Development Goals (SDGs)
+
+My academic teaching, post-doctoral research, and project development in electrical engineering—focusing on the Amazon region and clean energy transitions—directly contribute to several **United Nations Sustainable Development Goals (SDGs)**:
+
+### ⚡ SDG 7: Affordable and Clean Energy
+- **Photovoltaic Microgrids & Off-Grid Electrification:** Designing high-reliability solar PV systems (including bifacial arrays and advanced inverter sizing) for isolated Amazonian communities and public infrastructure (e.g., electrification of rural schools).
+- **Second-Life Battery Energy Storage Systems (BESS):** Investigating circular economy approaches by repurposing EV batteries for stationary buffer storage in university solar charging stations and microgrids.
+- **Green Hydrogen & Clean Fuels:** Conducting feasibility studies on green and gray hydrogen, ammonia conversion, and fuel cells for decarbonizing remote power systems and industrial applications.
+
+### 🔬 SDG 9: Industry, Innovation, and Infrastructure
+- **Sustainable Transit Infrastructure:** Developing R&D frameworks for zero-grid-peak solar charging stations for electric campus transit buses.
+- **Microgrid Optimization & Formal Verification:** Leveraging computational methods (MATLAB optimization solvers, SMT-based bounded model checking, BIP, and GAs) to improve energy efficiency, grid resiliency, and control systems.
+- **AI & Open Automation:** Building customized AI agents and automation tools for academic evaluation and research workflows.
+
+### 🌍 SDG 11: Sustainable Cities and Communities
+- **Decarbonization of Isolated Grids:** Replacing high-emission diesel generation in isolated Amazonian communities with resilient solar, battery storage, and hybrid hydrogen solutions.
+- **Clean Urban Mobility:** Integrating renewable generation with university urban transit systems to reduce local pollution and carbon intensity.
+
+### 🌿 SDG 13: Climate Action
+- **Regional Decarbonization Strategies:** Addressing unique equatorial and Amazonian climate dynamics (e.g., solar irradiation modeling, temperature effects on PV arrays) to design resilient energy infrastructure adapted to climate risks.
+- **Circular Energy Economy:** Mitigating lifecycle impacts of technology through second-life battery integration and zero-emission fuel alternatives.
+
+### 🤝 SDG 17: Partnerships for the Goals
+- **International & Cross-Institutional Collaboration:** Partnering with multi-institutional consortia (including UFAM, UFSC, Universidad Nacional de Colombia Sede Amazonia, and Universidad Amazónica de Pando) to drive cross-border research on environment, sustainability, and energy transition in the Pan-Amazon region.
+- **Academic Exchange:** Collaborating with international research groups and institutions to advance renewable energy training, curriculum development, and technical knowledge sharing (`Coventry University`, `University of Sheffield`, `University Of Ghana`, `Makerere University`, `Universidade Federal de Minas Gerais - UFMG`, `London of School of Economics and Political Science – LSE`, `Fundação Amazonas Sustentável – FAS`, `Universidade do Estado do Amazonas – UEA`, `University of Manchester`, `Technische Hochschule Ingolstadt - THI`, `Universidad EIA`, `University of Duisburg-Essen - UDE`, `Instituto Federal de Santa Catarina - IFSC`).
+
+
 ## Innovation Institutional Scholarship Program for Technological Development and Innovation Initiation – PIBITI :bookmark:
 - At Federal University of Amazonas (UFAM) https://edoc.ufam.edu.br/bitstream/123456789/8409/1/SEI_UFAM%20-%202036778%20-%20Edital-PIBITI-PROTEC.pdf - 11 months project (from October of 2024 to August of 2025)- title "Influence of physical and chemical parameters on photovoltaic solar panel technologies and their impact on the energy generation efficiency of distributed systems" - undergraduate physics student ISAILA DA SILVA DAMASCENO (isailadamasceno@icloud.com), Final Report at https://drive.google.com/file/d/1i7gPOzJI4Wwytu_mXL6HDIGp75qmUUiX/view?usp=sharing
-- 
+  
 
 ## Conference, Seminar and Journal Referee :man_judge:
 - VII International Seminar on Meteorology and Climatology of Amazonas (SIMCA) 2025 (18 to 22 August of 2025 in Belem/PA). Proceedings at https://sic2025.com.br/files/anais_sic_isbn.pdf
@@ -141,7 +169,7 @@
 
 ## Graduation Thesis Guidance :man_student:
 - 🆕 2026, "Detection of Denial-of-Service Attacks on Internet-Connected Photovoltaic Inverters: A Machine Learning Ensemble Approach", ELTON JOHN CARVALHO DOS SANTOS (eltcarva@gmail.com), Master Thesis of Graduate Program in Electrical Engineering at UFAM, Defended on July 3, 2026, File available at: https://drive.google.com/file/d/1ycG0q1TnCLcRlP68f7UrexqI-O2GmcK4/view?usp=sharing
-- 2026, "Techno-Economic Performance Analysis of On-Grid Distributed Solar Photovoltaic Micro-generation in the City of Manaus", Cristiane Brasil Ueda (chrizbrasil@gmail.com), Master Thesis of Graduate Program in Electrical Engineering at UFAM, Not Defended yet
+- 🆕 2026, "Techno-Economic Performance Analysis of On-Grid Distributed Solar Photovoltaic Micro-generation in the City of Manaus", Cristiane Brasil Ueda (chrizbrasil@gmail.com), Master Thesis of Graduate Program in Electrical Engineering at UFAM, Defended on 29th September 2026
 - 2024, “Design of photovoltaic off-grid systems with second-life batteries: a case study from riverside communities in the Amazon”, Master Thesis submitted by Khushboo Akhter to the Faculty of Mechanical Engineering of Technische Hochschule Ingolstadt (THI), Study program “Renewable Energy Systems" https://www.thi.de/en/mechanical-engineering/degree-programmes/renewable-energy-systems-msc/. Supervisor Prof. Dr.-Ing. Daniel Navarro Gevers (daniel.navarrogevers@thi.de). Advisor Prof. Dr.-Ing. Alessandro Bezerra Trindade. Complete document at https://opus4.kobv.de/opus4-haw/frontdoor/index/index/docId/5142
 
 
